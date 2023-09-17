@@ -6,3 +6,4 @@
 -Martin no le sabe
 -**mamaguebo**
 ### y en esto solo se escribe así o hay que poner codigos para hacer la portada
+### creo que namas asi se escribe porque es texto
