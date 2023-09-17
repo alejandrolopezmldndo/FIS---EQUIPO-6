@@ -1,15 +1,18 @@
-### Universidad Autonoma de Yucatan UADY
-### Facultad de matematicas
-### Fundamentos de Ingenieria de Software - Grupo B
-### Equipo 6
-### Prueba De Desempeño 1
-### Comparativa sintética de programas de Ingeniería de Software.
+# Universidad Autonoma de Yucatan UADY
+## Facultad de matematicas
+### Fundamentos de Ingenieria de Software
+### **Prueba De Desempeño 1**: Comparativa sintética de programas de Ingeniería de Software.
+### Equipo 6 - Grupo B
 
 ***
 ### Integrantes
 * Jose Elias Novelo Colli 100%
 * Martín Jesús Pool Chuc 100%
+* Alejandro López Maldonado 100%
 
+***
+Nombre del profesor:
+Fecha de entrega: 
 ***
 [ENLACE AL CANVA DONDE SE HACE LA COMPARACION](https://www.canva.com/design/DAFuprPzigg/LrEZFV64OxTHRtwpt4-phQ/view?utm_content=DAFuprPzigg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 ***
