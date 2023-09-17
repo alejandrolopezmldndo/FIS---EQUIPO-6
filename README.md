@@ -12,6 +12,7 @@
 * Alejandro López Maldonado 100%
 * Jareth Jaziel Moo Pan 100%
 * Jesse Oswaldo Martín Jiménez 100%
+* Aurora Mis Aguilar 100%
 
 ***
 ### Nombre del profesor:  Luis Basto Díaz
@@ -37,4 +38,4 @@
 
 
 
-* Universidad Popular Autónoma de Yucatán (UADY). (Agosto 2016). Plan de estudios de la Licenciatura en Ingeniería de Software. Recuperado de: https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pd
+* Universidad Popular Autónoma de Yucatán (UADY). (Agosto 2016). Plan de estudios de la Licenciatura en Ingeniería de Software. Recuperado de: https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
