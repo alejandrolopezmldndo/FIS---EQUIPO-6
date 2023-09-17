@@ -10,6 +10,7 @@
 * Jose Elias Novelo Colli 100%
 * Martín Jesús Pool Chuc 100%
 * Alejandro López Maldonado 100%
+* Jareth Jaziel Moo Pan 100%
 
 ***
 ### Nombre del profesor:  
