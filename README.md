@@ -14,7 +14,7 @@
 * Jesse Oswaldo Martín Jiménez 100%
 
 ***
-### Nombre del profesor:  
+### Nombre del profesor:  Luis Basto Díaz
 ### Fecha de entrega: 
 ***
 [ENLACE AL CANVA DONDE SE HACE LA COMPARACION](https://www.canva.com/design/DAFuprPzigg/LrEZFV64OxTHRtwpt4-phQ/view?utm_content=DAFuprPzigg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
