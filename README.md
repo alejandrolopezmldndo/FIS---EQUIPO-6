@@ -1,5 +1,7 @@
 ### Fundamentos de Ingenieria de Software - Grupo B
 ### Equipo 6
+### Prueba De Desempeño 1
+### Comparativa sintética de programas de Ingeniería de Software.
 ### Integrantes
 * Jose Elias Novelo Colli 100%
 
