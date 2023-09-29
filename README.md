@@ -1,5 +1,1 @@
-
-##HOLA
-##A VER OTRA VEZ
-## OTRA VEZ OTRA PUEBA
-### ESTE TEXTO ES DEPUES DE QUE PRIMERA_ENTREGA SE HAYA PROTEGIDO
+# Este espacio corresponde a la primera entrega del proyecto
