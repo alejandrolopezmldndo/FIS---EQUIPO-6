@@ -1,6 +1,6 @@
 | Nombre y foto | Descripción | 
 |----------|----------|
-| Alejandro López Maldonado ![fotografia](blob:https://web.whatsapp.com/1d684233-d661-468a-bb59-21320a30a0ae) | Estudiante de Ingeniería de Software en la UADY. Apasionado por la tecnología, las matemáticas y las artes. Habilidades en el idioma inglés y en pensamiento matemático.  | 
+| Alejandro López Maldonado ![image](https://github.com/alejandrolopezmldndo/FIS---EQUIPO-6/assets/143463559/c204fa3a-8745-4955-944a-cbc059bf31b6) | Estudiante de Ingeniería de Software en la UADY. Apasionado por la tecnología, las matemáticas y las artes. Habilidades en el idioma inglés y en pensamiento matemático. | 
 | Aurora Mis Aguilar |  |
 | Jareth Jaziel Moo Pan |  | 
 | Jesse Oswaldo Martín Jiménez |  | 
