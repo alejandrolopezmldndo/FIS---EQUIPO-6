@@ -28,5 +28,5 @@ DefyApp propone como objetivo primordial contribuir a los esfuerzos destinados a
  - En los usuarios secundarios, toda esa población mexicana busca la traducción de alguna seña o frase, usando traductores de la aplicación, pero no está interesada en aprender la lengua mexicana para su vida cotidiana. 
 
 ***
-## Propuesto de valor
+## Propuesta de valor
 Esta aplicación, tiene como diferenciador la capacidad de evaluar el aprendizaje y progreso de los usuarios mediante el uso del reconocimiento de sus movimientos frente a la cámara de su dispositivo, retroalimentando de forma clara sus aciertos y errores, de igual forma funciona como un traductor de lenguaje de señas mexicano a texto en español. 
