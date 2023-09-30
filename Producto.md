@@ -1,5 +1,5 @@
-## NOMBRE DEL SOFTWARE: DefyApp 
-DefyApp propone como objetivo primordial contribuir a los esfuerzos destinados a la integración y equidad de las personas con discapacidad auditiva y del habla en la sociedad mexicana, mediante la promoción y enseñanza de la Lengua de Señas Mexicana (LSM). 
+## NOMBRE DEL SOFTWARE: DeafyApp 
+DeafyApp propone como objetivo primordial contribuir a los esfuerzos destinados a la integración y equidad de las personas con discapacidad auditiva y del habla en la sociedad mexicana, mediante la promoción y enseñanza de la Lengua de Señas Mexicana (LSM). 
 
 ***
 
