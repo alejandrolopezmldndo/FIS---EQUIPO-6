@@ -13,19 +13,24 @@
 | RF-03 | Subtítulos | 
 |----------|:----------:|
 | Prioridad MOSCOW | Should have | 
-| Descripción | Los subtítulos generados a partir de la traducción de Lenguaje de Señas Mexicanas al español deberán ser claros, legibles, coherentes y de preferencia emplear las palabras o sinónimos más correctos en la interpretación de cada oración. | 
+| Descripción | Los subtítulos generados a partir de la traducción de Lenguaje de Señas Mexicanas al español deberán ser claros, legibles, coherentes y de preferencia emplear las palabras o sinónimos más correctos en la interpretación de cada oración. |
 
-| RF-04 | Apartado de Lecciones | 
+| RF-04 | Apartado de vocabulario | 
+|----------|:----------:|
+| Prioridad MOSCOW | Wont have | 
+| Descripción | La aplicación móvil contará con un apartado de interacción rápida para seleccionar, de un amplio repertorio, palabras o frases comunes que posteriormente serán traducidas al Lenguaje de Señas Mexicanas. | 
+
+| RF-05 | Apartado de Lecciones | 
 |----------|:----------:|
 | Prioridad MOSCOW | Must have | 
 | Descripción | La aplicación contendrá un apartado específico cuyo contenido serán varias lecciones en las que el usuario aprende distintas palabras y oraciones en Lengua de Señas Mexicanas mediante la imitación de una animación que aparece en pantalla que realiza los movimientos de manos y gestos correspondientes a dicha palabra. | 
 
-| RF-05 | Retroalimentación de las Lecciones | 
+| RF-06 | Retroalimentación de las Lecciones | 
 |----------|:----------:|
 | Prioridad MOSCOW | Must have | 
 | Descripción | Durante las lecciones, la aplicación retroalimentará al usuario con respecto a que tan acertados fueron sus movimientos y gestos realizados, indicando así, sus aciertos y errores. | 
 
-| RF-06 | Eficaz | 
+| RF-07 | Eficaz | 
 |----------|:----------:|
 | Prioridad MOSCOW | Must have | 
 | Descripción | La aplicación debe redireccionar al usuario al sitio correcto cuando presiona un apartado. | 
