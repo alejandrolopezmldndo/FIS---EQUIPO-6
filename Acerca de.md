@@ -5,4 +5,4 @@
 | Jareth Jaziel Moo Pan |  | 
 | Jesse Oswaldo Martín Jiménez ![image]([https://github.com/ElYesso/FIS---EQUIPO-6-fork/blob/Primera-Entrega/FOTO.JPG?raw=true](https://alumnosuady-my.sharepoint.com/personal/a20203125_alumnos_uady_mx/_layouts/15/SkySyncRedir.aspx?Type=2&ResourceId=72a39882ecfc40ed9be1c43d7c19bb66&View=0)https://alumnosuady-my.sharepoint.com/personal/a20203125_alumnos_uady_mx/_layouts/15/SkySyncRedir.aspx?Type=2&ResourceId=72a39882ecfc40ed9be1c43d7c19bb66&View=0) | Estudiando en Facultad de Matemáticas Grupo B en Fundamentos de Ingeniería en Software. |
 | José Elias Novelo Collí |  | 
-| Martín Jesús Pool Chuc |  | 
+| Martín Jesús Pool Chuc |Estudiante de la Facultad de Matemáticas, en la carrera de ingniería de software, mucha experiencia en la creación de vídeos de forma profecional  | 
