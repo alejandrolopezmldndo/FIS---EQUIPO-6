@@ -77,4 +77,4 @@ En cuanto a los cambios que se realizaron en el apartado de requerimientos, prin
 | RNF-08 | Límite de palabras | 
 |----------|:----------:|
 | Prioridad MOSCOW | Must have | 
-| Descripción | Al usar el traductor de español a Lengua de Señas Mexicanas, la aplicación permitirá introducir un límite de 200 palabras. | 
+| Descripción | Al usar el traductor de español a Lengua de Señas Mexicanas, la aplicación permitirá introducir un límite de 140 palabras. | 
