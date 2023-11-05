@@ -19,17 +19,10 @@ En esta semana lo que interesaba al equipo era confirmar los requirimientos func
 | Actividad                                                                                                             | Miembros                                         | Prioridad | Puntos |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|--------|
 | __Modificar los requisitos y funciones mínimas anteriormente creadas en la primera entrega para el primer prototipo__ |                                          |   |        |
-| 1.Realizar una reunión para discutir las funciones que se habían planteado anteriormente                              |                                          |   |        |
-| 2.Agregar, modificar o eliminar las funciones dentro de la app para agregarlo a la interfaz                           |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-
-| __Establecer un entorno de diseño (FIGMA)__                         | Todos                                            | Alta      |        |
+| 1. Realizar una reunión para discutir las funciones que se habían planteado anteriormente                             |                                          |   |        |
+| 2. Agregar, modificar o eliminar las funciones dentro de la app para agregarlo a la interfaz                          |                                          |   |        |
+| __Establecer un entorno de diseño (FIGMA)__                                                                           | Todos                                            | Alta      |        |
+| 1. Investigar las herramientas de diseño disponibles                                                                  |                                          |   |        |
 | 1. Relizar reunion para decidir la herramienta |                                          |   |        |
 |  |                                          |   |        |
 |  |                                          |   |        |
