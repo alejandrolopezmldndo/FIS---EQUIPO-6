@@ -6,7 +6,8 @@ a su vez enseña a los usuarios el lenguaje mediante lecciones y ejercicios cort
 Dicho esto se decidio dividir en 4 sprints con duracion de una semana cada uno. Donde en cada intervalo se realizo tareas de un apartado en especifico propuestas por nosotros: 
 Definición y planificación del bosquejo del prototipo, desarrollo del prototipo, retroalimentación y ajustes, creación del video y subida de documentación a GitHub, respectivamente.
 
-Donde nuestra metodologia de organizacion de baso en el kanbam (dividir las tareas por post en por hacer, en proceso y hechos)
+Donde nuestra metodologia de organizacion de baso en el kanbam (dividir las tareas por post en por hacer, en proceso y hechos).
+
 ![image](https://github.com/Elias-Novel0/FIS---EQUIPO-6/assets/133535448/17ab1b82-07d0-4ce4-8758-a22eaddfd7de)
 
 ## Descipcion del proceso
