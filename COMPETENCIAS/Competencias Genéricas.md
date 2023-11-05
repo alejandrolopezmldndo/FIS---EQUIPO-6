@@ -1,0 +1,7 @@
+## Competencias Genéricas
+
+En esta entrega pusimos en práctica nuestras habilidades de comunicación y colaboración en equipo para llevar a cabo nuestra segunda entrega. Ya que hemos determinado nuestros roles dentro del equipo, se nos ha facilitado encontrar un flujo de trabajo que usa las habilidades de cada quién para completar nuestros trabajos.
+
+También hemos incrementado nuestro uso de las TICs desde que empezamos a usar la metodología Kanban en Trello, un software de administración de projectos. Esto nos sirve para manejar y tener un seguimiento de las tareas individuales necesarias para el proyecto.
+
+Por último, las reuniones semanales con el maestro nos han impulsado a calendarizar nuestros eventos para evitar conflictos entre asignaturas. Esto promueve parte de nuestra responsabilidad universitaria y mejora nuestras soft skills de comunicación durante dichas reuniones.
