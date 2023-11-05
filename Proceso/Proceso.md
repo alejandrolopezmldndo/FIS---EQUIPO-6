@@ -20,15 +20,15 @@ requerian que todos los integrantes del equipo estuvieran de acuerdo con la toma
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|--------|
 | __*Modificar los requisitos y funciones mínimas anteriormente creadas en la
 primera entrega para el primer prototipo.*__                                                                            |                                                  |           |        |
-| 1. Realizar una reunión para discutir las funciones que se habían planteado anteriormente.                            | Todos                                            | Alta      |        |
-| 2. Agregar, modificar o eliminar las funciones dentro de la app para agregarlo a la interfaz.                         | Alejandro                                        | Media     |        |
+| 1. Realizar una reunión para discutir las funciones que se habían planteado anteriormente.                            | Todos                                            | Alta      |   3    |
+| 2. Agregar, modificar o eliminar las funciones dentro de la app para agregarlo a la interfaz.                         | Alejandro                                        | Media     |   2    |
 | __*Establecer un entorno de diseño (FIGMA).*__                                                                        |                                                  |           |        |
-| 1. Investigar las herramientas de diseño disponibles.                                                                 | Todos                                            | Media     |        |
-| 2. Realizar reunión para decidir la herramienta.                                                                      | Todos                                            | Alta      |        |
+| 1. Investigar las herramientas de diseño disponibles.                                                                 | Todos                                            | Media     |   2    |
+| 2. Realizar reunión para decidir la herramienta.                                                                      | Todos                                            | Alta      |   3    |
 | __*Investigar cómo se utiliza el entorno de diseño.*__                                                                |                                                  |           |        |
-| 1. Crear una cuenta en Figma.                                                                                         | Todos                                            | Alta      |        |
-| 2. Descargar e instalar Figma en nuestros dispositivos.                                                               | Todos                                            | Alta      |        |
-| 3. Investigar cómo utilizar Figma.                                                                                    | Todos                                            | Media     |        |
+| 1. Crear una cuenta en Figma.                                                                                         | Todos                                            | Alta      |   3    |
+| 2. Descargar e instalar Figma en nuestros dispositivos.                                                               | Todos                                            | Alta      |   3    |
+| 3. Investigar cómo utilizar Figma.                                                                                    | Todos                                            | Media     |   2    |
 
 
 
@@ -37,22 +37,21 @@ El equipo se enfocó en el desarrollo del prototipo de la aplicación. Las activ
 discusión en equipo para evaluar las opciones de plantillas disponibles, diseño de las páginas principales de la aplicación.
 Además, se trabajó en el diseño de un prototipo que simulaba una cámara para traducir el lenguaje de señas, definiendo las funciones relacionadas con la cámara y creando el diseño correspondiente. También se diseñó el apartado de aprendizaje del usuario, obteniendo inspiración de aplicaciones similares, seleccionando una plantilla y realizando las adaptaciones necesarias para cumplir con los requisitos del proyecto.
 
-| Tarea | Miembros | Prioridad | Puntos |
+| Tarea  | Miembros | Prioridad | Puntos |
 |------|-------|---|--|
 | __*Desarrollar el diseño de la interfaz de usuario de la aplicación.*__ | | | |
-| 1. Investigar cómo funciona la teoría de color, tipografía y aspectos generales del diseño. | Todos | Alta | 10 |
-| 2. Diseñar un esquema tipo borrador de la navegación de la aplicación en Figma. | Elias | Media | 20 |
-| 3. Discutir en equipo las opciones disponibles de plantillas. | Todos | Media | 10 |
-| 4. Escoger una plantilla que cumpla con lo que se busca. | Jareth | Alta | 20 |
-| 5. Realizar el diseño de las principales páginas que se usarán. | Martin | Media | 15 |
+| 1. Investigar cómo funciona la teoría de color, tipografía y aspectos generales del diseño. | Todos | Alta | 3 |
+| 2. Diseñar un esquema tipo borrador de la navegación de la aplicación en Figma. | Elias | Media | 2 |
+| 3. Discutir en equipo las opciones disponibles de plantillas. | Todos | Media | 2 |
+| 4. Escoger una plantilla que cumpla con lo que se busca. | Jareth | Alta | 3 |
+| 5. Realizar el diseño de las principales páginas que se usarán. | Martin | Media | 2 |
 | __*Diseñar un prototipo que haga la ilusión de la cámara que traduce el lenguaje de señas.*__ |  | | |
-| 1. Definir qué funciones harán uso de la cámara. | Alejandro | Alta | 20 |
-| 2. Diseñar el prototipo de la interfaz del apartado de la cámara. | Aurora | Alta | 20 |
+| 1. Definir qué funciones harán uso de la cámara. | Alejandro | Alta | 3 |
+| 2. Diseñar el prototipo de la interfaz del apartado de la cámara. | Aurora | Alta | 3 |
 | __*Realizar el diseño del apartado de aprendizaje del usuario.*__ || | | 
-| 1. Obtener ideas de aplicaciones similares. | Todos | Media | 10 |
-| 2. Con las investigaciones previas, escoger una plantilla que satisfaga las necesidades. | Oswaldo | Alta | 15 |
-| 3. Realizar las modificaciones necesarias en la plantilla. | Todos | Baja | 10 |
-| Total de puntaje| | | 100|
+| 1. Obtener ideas de aplicaciones similares. | Todos | Media | 2 |
+| 2. Con las investigaciones previas, escoger una plantilla que satisfaga las necesidades. | Oswaldo | Alta | 3 |
+| 3. Realizar las modificaciones necesarias en la plantilla. | Todos | Baja | 1 |
 
 ### Tercer sprint (23 al 27 de Octubre): Retroalimentación y ajustes
 Durante esta semana nos enfocamos en las áreas a mejorar en el diseño, por medio de reuniones con el equipo, lluvias de ideas y consulta a personas ajenas, se buscó realizar una lista de las mejoras y modificaciones en la interfaz, mismas que se implementaron. 
