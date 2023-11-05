@@ -6,13 +6,16 @@ a su vez enseña a los usuarios el lenguaje mediante lecciones y ejercicios cort
 Dicho esto se decidio dividir en 4 sprints con duracion de una semana cada uno. Donde en cada intervalo se realizo tareas de un apartado en especifico propuestas por nosotros: 
 Definición y planificación del bosquejo del prototipo, desarrollo del prototipo, retroalimentación y ajustes, creación del video y subida de documentación a GitHub, respectivamente.
 
+Donde nuestra metodologia de organizacion de baso en el kanbam (dividir las tareas por post en por hacer, en proceso y hechos)
+![image](https://github.com/Elias-Novel0/FIS---EQUIPO-6/assets/133535448/17ab1b82-07d0-4ce4-8758-a22eaddfd7de)
+
 ## Descipcion del proceso
 
 ### Primer Sprint (9 al 14 de octubre): Definición y Planificación del bosquejo del prototipo
 En esta semana lo que interesaba al equipo era confirmar los requirimientos funcionales y no funcionales que se iban a bosquejar y quedar en el desarollo del prototipo de interfaz de la aplicacion. Asi como decidir la herramienta donde se iba a diseñar la interfaz la cual al final se eligio Figma. Estas tareas de esta semana
 requerian que todos los integrantes del equipo estuvieran de acuerdo con la toma de decisiones como la herramienta y las funciones que se iban a bosquejar.
 
-| Actividad                                                                                                             | Miembros                                         | Prioridad | Puntos |
+| Tarea                                                                                                             | Miembros                                         | Prioridad | Puntos |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|--------|
 | __*Modificar los requisitos y funciones mínimas anteriormente creadas en la
 primera entrega para el primer prototipo.*__                                                                            |                                                  |           |        |
@@ -25,10 +28,8 @@ primera entrega para el primer prototipo.*__                                    
 | 1. Crear una cuenta en Figma.                                                                                         | Todos                                            | Alta      |        |
 | 2. Descargar e instalar Figma en nuestros dispositivos.                                                               | Todos                                            | Alta      |        |
 | 3. Investigar cómo utilizar Figma.                                                                                    | Todos                                            | Media     |        |
-|Total de puntaje                                                                                                       |                                                  |           | 100    |
 
 
-![image](https://github.com/Elias-Novel0/FIS---EQUIPO-6/assets/133535448/17ab1b82-07d0-4ce4-8758-a22eaddfd7de)
 
 ### Segundo Sprint (16 al 20 de octubre): Definición y Planificación del bosquejo del prototipo
 El equipo se enfocó en el desarrollo del prototipo de la aplicación. Las actividades clave incluyeron: Investigación sobre teoría de color, tipografía y diseño general de la interfaz de usuario, creación de un esquema en Figma, 
@@ -52,27 +53,36 @@ Además, se trabajó en el diseño de un prototipo que simulaba una cámara para
 | 3. Realizar las modificaciones necesarias en la plantilla. | Todos | Baja | 10 |
 | Total de puntaje| | | 100|
 
+### Tercer sprint (23 al 27 de Octubre): Retroalimentación y ajustes
+Durante esta semana nos enfocamos en las áreas a mejorar en el diseño, por medio de reuniones con el equipo, lluvias de ideas y consulta a personas ajenas, se buscó realizar una lista de las mejoras y modificaciones en la interfaz, mismas que se implementaron. 
 
-|  |                                          |   |        |
-|  |                                          |   |        |
+| Tarea                                                                                                                                     | Miembros  | Prioridad | Puntos |
+|------                                                                                                                                     |-------    |---        |--      |
+| 1.	Identificar posibles mejoras.                                                                                                         | Todos     | Media     | 2      | 
+| 2. Como equipo, discutir las mejoras que deben modificarse.                                                                               | Todos     | Media     | 2      |
+| 3. Recibir retroalimentación de la interfaz de personas ajenas al equipo para verificar que la interfaz cumpla con su función.            | Todos     | Alta      | 3      |  
+| 4. Crear una lista de cosas que deben modificarse y mejorar en base a las opiniones y retroalimentacionees.                               | Todos     | Alta      | 3      |
+| 5. Con la lista ya creada de modificaciones, modificar el prototipo de la aplicación según sea necesario.                                 | Alejandro | Alta      | 3      |
+| 6. Modificar el logotipo de la aplicacion inicial de la primera entrega en caso de ser necesario e integrarlo en el diseño del prototipo. | Alejandro | Baja      | 1      |
 
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
-|  |                                          |   |        |
+### Cuarto sprint (30 de Octubre al 5 de Noviembre )
+Sprint 4 (semana 4): Creación del video y subida de documentación a GitHub
+En este último sprint se realizó el video de la aplicación, mismo que después de haber revisado en equipo y hecho las modificaciones necesarias, se subió a GitHub
+| Tarea                                                                                                                                               | Miembros            | Prioridad | Puntos |
+|------                                                                                                                                               |-------              |---        |--      |
+| 1. Desarrollar un guion o esquema para el video que describa los temas a tratar y la estructura general del video.                                  | Martin y Jaziel     | Alta      | 3 | 
+| 2. Grabar las escenas o contenido visual necesario para el video.                                                                                   | Martin y Jaziel     | Alta      | 2 |
+| 3. Editar y ensamblar las grabaciones en un video coherente. Agregar efectos, transiciones, música de fondo, y otros elementos según sea necesario. | Martin y Jaziel     | Alta      | 3 |  
+| 4. Compartir el video integrantes del equipo y obtener retroalimentación.                                                                           | Martin y Jaziel     | Baja      | 1 |
+| 5. Realizar revisiones y ajustes según sea necesario.                                                                                               | Martin y JAziel     | Media     | 2 |
+| 6. Subir el video a la plataforma a YouTube y compartir en enlace en GitHub                                                                         | Todos               | Alta      | 3 |  
+| 7. Documentación y subida de requisitos                                                                                                             | Alejandro           | Media     | 3 |
+| 8. Documentación y subida de competencias                                                                                                           | Oswaldo             | Baja      | 1 |
+| 9. Documentación y subida de diseño                                                                                                                 | Alejandro           | Alta      | 3 |
+| 10. Documentación y subida de proceso                                                                                                               | Elias y Aurora      | Media     | 2 |
+
+
+
+
 
 
