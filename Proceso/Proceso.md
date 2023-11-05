@@ -18,13 +18,13 @@ En esta semana lo que interesaba al equipo era confirmar los requirimientos func
 
 | Actividad                                                                                                             | Miembros                                         | Prioridad | Puntos |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|--------|
-| __Modificar los requisitos y funciones mínimas anteriormente creadas en la primera entrega para el primer prototipo__ |                                                  |           |        |
+| __*Modificar los requisitos y funciones mínimas anteriormente creadas en la primera entrega para el primer prototipo*__ |                                                  |           |        |
 | 1. Realizar una reunión para discutir las funciones que se habían planteado anteriormente                             |                                                  |           |        |
 | 2. Agregar, modificar o eliminar las funciones dentro de la app para agregarlo a la interfaz                          |                                                  |           |        |
-| __Establecer un entorno de diseño (FIGMA)__                                                                           | Todos                                            | Alta      |        |
+| __*Establecer un entorno de diseño (FIGMA)*__                                                                           | Todos                                            | Alta      |        |
 | 1. Investigar las herramientas de diseño disponibles                                                                  |                                                  |           |        |
 | 2. Relizar reunion para decidir la herramienta                                                                        |                                                  |           |        |
-| __Investigar cómo se utiliza el entorno de diseño__                                                                   |                                                  |           |        |
+| __*Investigar cómo se utiliza el entorno de diseño*__                                                                   |                                                  |           |        |
 | 1. Crear una cuenta en Figma                                                                                          |                                                  |           |        |
 | 2. Descargar e instalar Figma en nuestros dispositivos                                                                |                                                  |           |        |
 | 3. Investigar cómo utilizar Figma                                                                                     |                                                  |           |        |
