@@ -8,6 +8,7 @@ Definición y planificación del bosquejo del prototipo, desarrollo del prototip
 
 Donde nuestra metodologia de organizacion de baso en el kanbam (dividir las tareas por post en por hacer, en proceso y hechos).
 
+https://trello.com/invite/b/MTplZua6/ATTI6366910ab8dffcf7af981a56db0fdda8A35D6719/fis-proyecto-deafyapp
 ![image](https://github.com/Elias-Novel0/FIS---EQUIPO-6/assets/133535448/17ab1b82-07d0-4ce4-8758-a22eaddfd7de)
 
 ## Descipcion del proceso
