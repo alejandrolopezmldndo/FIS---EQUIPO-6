@@ -28,7 +28,7 @@ En cuanto a los cambios que se realizaron en el apartado de requerimientos, prin
 
 | RF-06 | Retroalimentación de las Lecciones | 
 |----------|:----------:|
-| Prioridad MOSCOW | Must have | 
+| Prioridad MOSCOW | Should have | 
 | Descripción | Durante las lecciones, la aplicación retroalimentará al usuario con respecto a que tan acertados fueron sus movimientos y gestos realizados, indicando así, sus aciertos y errores. | 
 
 | RF-07 | Eficaz | 
@@ -36,6 +36,10 @@ En cuanto a los cambios que se realizaron en el apartado de requerimientos, prin
 | Prioridad MOSCOW | Must have | 
 | Descripción | La aplicación debe redireccionar al usuario al sitio correcto cuando presiona un apartado. | 
 
+| RF-08 | Límite de palabras | 
+|----------|:----------:|
+| Prioridad MOSCOW | Should have | 
+| Descripción | Al usar el traductor de español a Lengua de Señas Mexicanas, la aplicación permitirá introducir un límite de 140 palabras. | 
 ---
 # __Requerimientos no funcionales__
 
@@ -74,7 +78,3 @@ En cuanto a los cambios que se realizaron en el apartado de requerimientos, prin
 | Prioridad MOSCOW | Must have | 
 | Descripción | El dipositivo móvil en el que se quiera abrir la aplicación deberá estar conectado a una red Wi-Fi, de modo que se pueda hacer uso de la aplicación. | 
 
-| RNF-08 | Límite de palabras | 
-|----------|:----------:|
-| Prioridad MOSCOW | Must have | 
-| Descripción | Al usar el traductor de español a Lengua de Señas Mexicanas, la aplicación permitirá introducir un límite de 140 palabras. | 
