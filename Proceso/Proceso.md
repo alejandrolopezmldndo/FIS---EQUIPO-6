@@ -29,7 +29,7 @@ En esta semana lo que interesaba al equipo era confirmar los requirimientos func
 | 2. Descargar e instalar Figma en nuestros dispositivos                                                                |                                                  |           |        |
 | 3. Investigar cómo utilizar Figma                                                                                     |                                                  |           |        |
 
-[image](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a19203388_alumnos_uady_mx/ERgTt8D3D-BMiHGKehK2hCgBgZqvXXSbCnDLVH8XwiZkSA?e=tgYDfP)
+!(https://alumnosuady-my.sharepoint.com/:i:/g/personal/a19203388_alumnos_uady_mx/ERgTt8D3D-BMiHGKehK2hCgBgZqvXXSbCnDLVH8XwiZkSA?e=tgYDfP)
 
 
 
