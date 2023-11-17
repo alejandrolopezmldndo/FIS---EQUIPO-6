@@ -163,3 +163,6 @@ Este principio podemos integrarlo en nuestro proyecto en la etapa de diseño, ya
 
 --- 
 # Referencias
+
+Beck, K., & Cunningham, W. (1989). A technique for specifying user interface requirements. In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (pp. 313-320). New York, NY: ACM.
+Jacobson, I. (1992). Object-oriented software engineering: A use case driven approach. New York, NY: Addison-Wesley.
