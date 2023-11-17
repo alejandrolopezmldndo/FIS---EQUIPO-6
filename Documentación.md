@@ -170,3 +170,17 @@ Jacobson, I. (1992).
 Object-oriented software engineering: A use case driven approach. New York, NY: Addison-Wesley.
 
 QAlified. (2023, 10 de octubre). ¿Qué son las Pruebas de Regresión? Cómo hacerlas, herramientas y más. QAlified. https://qalified.com/es/blog/pruebas-regresion/
+
+Laoyan, S. (2022, 17 de agosto). *Agile Manifiesto: la guía para entender la metodología Agile*. Recuperado el 16 de noviembre de: https://asana.com/es/resources/agile-methodology
+
+ESIC. (2023, agosto). *Conoce los 12 principios del manifiesto agile*. Recuperado el 16 de noviembre de: https://www.esic.edu/rethink/tecnologia/manifiesto-agile-valores-12-principios-c
+
+Monroy, F. (2023). *Ciclo de vida del desarrollo del software*. Recuperado el 15 de noviembre de: https://fernandomonroytenorio.com/tema/ciclo-de-vida-del-desarrollo-de-software/#:~:text=SDLC%2C%20o%20ciclo%20de%20vida,pueden%20asignar%2C%20completar%20y%20medir 
+
+Escuela Técnica Superior de Ingeniería de Sistemas Informáticos (ETSISI). (2023). *Ingeniería de Software: competencias*. Recuperado el 15 de noviembre de: https://www.etsisi.upm.es/estudios/grados/software/competencias
+
+Cohete Digital. (2022, 25 de enero). *¿Qué habilidades necesitas para ser Ingeniero en Software?* Recuperado el 15 de noviembre de: https://cohete.digital/guia-carrera-profesional/ingeniero-de-software/habilidades/
+
+Universidad Autónoma del Perú. (2022, 9 de octubre). *¿Qué hace un Ingeniero de Software*. Recuperado el 15 de noviembre de: https://www.autonoma.pe/blog/que-hace-ingeniero-software/
+
+
