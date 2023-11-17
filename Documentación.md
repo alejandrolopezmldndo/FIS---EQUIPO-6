@@ -59,6 +59,26 @@ La especificación de casos de uso y las historias de usuario son dos técnicas 
 
 Para concluir, determinamos que la elección de utilizar la especificación de casos de uso o las historias de usuario depende de las necesidades específicas del proyecto. La especificación de casos de uso se aprovecharía de una mejor manera para proyectos que requieren una descripción formal y completa de los requisitos funcionales. Las historias de usuario, por otro lado, son una buena opción para proyectos que requieren una colaboración estrecha entre el cliente y los desarrolladores, o proyectos en los que los requisitos pueden cambiar con frecuencia.
 
+**Ejemplo (Casos de uso)**
+
+Caso de uso: Iniciar sesión
+
+Actor: Usuario
+
+Precondiciones: El usuario debe tener una cuenta registrada en el sistema.
+
+Flujo principal:
+
+* El usuario ingresa su nombre de usuario y contraseña.
+* El sistema valida los datos de inicio de sesión.
+* Si los datos son correctos, el sistema inicia sesión al usuario.
+
+Flujo alternativo:
+
+Si los datos de inicio de sesión son incorrectos, el sistema muestra un mensaje de error.
+
+Postcondiciones: El usuario está autenticado en el sistema.
+
 ### Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 Para nuestro proyecto, el diseño de software es una parte fundamental para su éxito, ya que nuestra aplicación está diseñada para un público menos familiarizada con tecnología. Por poner un ejemplo, la interfaz de usuario, definida como el medio que permite al usuario interactuar con una máquina o dispositivo (Thimbleby, 1990). Al requerir de un teléfono inteligente para ingresar a la aplicación, estaríamos utilizando una interfaz táctil para ofrecer una respuesta de entrada (mediante la pantalla o cámara) y una de salida (feedback) (Li et al., 2009).
