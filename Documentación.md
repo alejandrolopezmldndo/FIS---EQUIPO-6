@@ -19,6 +19,46 @@ Un ejemplo de estas habilidades, más bien de falta de estas en habilidades en n
 
 ### Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
+La especificación de casos de uso y las historias de usuario son dos técnicas utilizadas en el desarrollo de software para capturar los requisitos funcionales de un sistema.
+
+**Especificación de casos de uso**
+
+*Ventajas*
+
+* Proporciona una descripción formal y completa de los requisitos funcionales del sistema.
+ 
+* Es útil para comunicar los requisitos al cliente y a los desarrolladores.
+
+* Puede ayudar a identificar riesgos y problemas potenciales en el diseño del sistema.
+
+*Desventajas*
+
+* Puede ser laborioso y complejo de desarrollar.
+
+* Puede ser difícil mantener la especificación actualizada a medida que cambian los requisitos.
+
+**Historias de usuario**
+
+*Ventajas*
+
+* Son fáciles de entender y comunicar.
+  
+* Fomentan la colaboración entre el cliente y los desarrolladores.
+  
+* Son flexibles y pueden adaptarse a los cambios en los requisitos.
+
+*Desventajas*
+
+* Pueden no proporcionar una descripción completa de los requisitos funcionales del sistema.
+  
+* Pueden ser difíciles de priorizar y estimar.
+  
+* Elección de la técnica
+
+**¿Cuál usar?**
+
+Para concluir, determinamos que la elección de utilizar la especificación de casos de uso o las historias de usuario depende de las necesidades específicas del proyecto. La especificación de casos de uso se aprovecharía de una mejor manera para proyectos que requieren una descripción formal y completa de los requisitos funcionales. Las historias de usuario, por otro lado, son una buena opción para proyectos que requieren una colaboración estrecha entre el cliente y los desarrolladores, o proyectos en los que los requisitos pueden cambiar con frecuencia.
+
 ### Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 Para nuestro proyecto, el diseño de software es una parte fundamental para su éxito, ya que nuestra aplicación está diseñada para un público menos familiarizada con tecnología. Por poner un ejemplo, la interfaz de usuario, definida como el medio que permite al usuario interactuar con una máquina o dispositivo (Thimbleby, 1990). Al requerir de un teléfono inteligente para ingresar a la aplicación, estaríamos utilizando una interfaz táctil para ofrecer una respuesta de entrada (mediante la pantalla o cámara) y una de salida (feedback) (Li et al., 2009).
