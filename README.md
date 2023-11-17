@@ -1,8 +1,8 @@
-## Prueba de Desempeño 2-3. Fases de Desarrollo y Modelos de Ciclo de vida
+
 ![Logo UADY](https://cdn.shopify.com/s/files/1/0536/1618/1433/files/uady-libreria-05.png?height=628&pad_color=ffffff&v=1617163791&width=1200)
 ## Facultad de matematicas
 ### Fundamentos de Ingenieria de Software
-### **Prueba De Desempeño 1**: Comparativa sintética de programas de Ingeniería de Software.
+## Prueba de Desempeño 2-3. Fases de Desarrollo y Modelos de Ciclo de vida
 ### Equipo 6 - Grupo B
 
 ***
