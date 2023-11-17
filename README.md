@@ -16,4 +16,4 @@
 
 ***
 ### Nombre del profesor:  Luis Basto Díaz
-### Fecha de entrega: Lunes 18 de septiembre de 2023
+### Fecha de entrega: Jueves 16 de noviembre de 2023
