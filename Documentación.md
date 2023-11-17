@@ -67,6 +67,14 @@ En el caso de nuestro proyecto, utilizamos wireframes en Figma para crear un boc
 
 ### Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
+Las pruebas de regresión se enfocan en asegurar que los cambios no afecten negativamente el funcionamiento existente. Se llevan a cabo después de cambios significativos o al actualizar el software para garantizar su correcto desempeño. Estas pruebas también se realizan al implementar una aplicación en un nuevo entorno y de manera periódica para detectar problemas originados por cambios previos.
+
+Se inician identificando y documentando los requisitos, definiendo casos de prueba y seleccionándolos según su importancia. Luego, se crea una suite de pruebas considerando las áreas modificadas y las invariables. Posteriormente, se ejecutan los casos de prueba y se analizan los resultados para detectar discrepancias. Finalmente, se genera un informe con los resultados para evaluar la calidad del producto y mejorar en áreas específicas.
+
+Es clave considerar las pruebas desde las etapas tempranas del desarrollo para detectar y solucionar problemas rápidamente, incluso con cambios importantes en el proceso de desarrollo.
+
+Un ejemplo basado en nuestra experiencia fue la comprobación del repositorio cuando se hacían grandes cambios desde nuestras bifurcaciones, así como durante la realización de nuestro prototipo de la interfaz cuando se agregaba una nueva sección en la herramienta figma.
+
 ### Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras.
 
 Un ingeniero de software es un profesionista que requiere de muchas habilidades técnicas, conocimiento, valores, competencias etc. Su formación académica es crucial para poder ser un buen profesionista que sea capaz de desarrollas aplicaciones de software seguras, por lo que se debe tener los siguientes puntos a consideración en la formación:
