@@ -27,7 +27,7 @@ Las métricas que evalúan cada uno de los atributos son los siguientes:
     * Robustez
     * Accesibilidad,
     * Facilidad de comunicación.
-5.	Facilidad de evaluación:
+5.	Facilidad de evaluación o prueba:
     * Capacidad para rendir cuentas
     * Accesibilidad
     * Estructuración
