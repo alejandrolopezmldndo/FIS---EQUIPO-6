@@ -1,41 +1,131 @@
-# Universidad Autonoma de Yucatan UADY
-![Logo UADY](https://cdn.shopify.com/s/files/1/0536/1618/1433/files/uady-libreria-05.png?height=628&pad_color=ffffff&v=1617163791&width=1200)
-## Facultad de matematicas
-### Fundamentos de Ingenieria de Software
-### **Prueba De Desempeño 1**: Comparativa sintética de programas de Ingeniería de Software.
-### Equipo 6 - Grupo B
+# Modelos de Calidad
+De acuerdo con Constanzo, M. (2014) los estándares o modelos de calidad en la ingeniería de software son conjuntos de criterios que orientan el desarrollo. Estos estándares aseguran la uniformidad en los procesos y sirven como guía para alcanzar tanto la productividad como la calidad.
+## Modelo de calidad: Boehm
+De acuerdo con Manco, C. (2020) el modelo de calidad de Barry Boehm, propuesto en 1978, establece estándares para medir la calidad del software a través de atributos cualitativos y el uso de métricas. Estas métricas son utilizadas para evaluar si el software cumple con los atributos o funcionalidades esperadas. Este modelo, vigente desde 1978, organiza las características del software y las evalúa en atributos organizado en tres niveles: primarios, secundarios y primitivos.
 
-***
-### Integrantes:
-* Jose Elias Novelo Colli 100%
-* Martín Jesús Pool Chuc 100%
-* Alejandro López Maldonado 100%
-* Jareth Jaziel Moo Pan 100%
-* Jesse Oswaldo Martín Jiménez 100%
-* Aurora Mis Aguilar 100%
+- **Primarios**: representan las cualidades más esenciales y fundamentales del software, como la Utilidad, Mantenimiento y Portabilidad.
 
-***
-### Nombre del profesor:  Luis Basto Díaz
-### Fecha de entrega: Lunes 18 de septiembre de 2023
-***
-[ENLACE AL CANVA DONDE SE HACE LA COMPARACION](https://www.canva.com/design/DAFuprPzigg/LrEZFV64OxTHRtwpt4-phQ/view?utm_content=DAFuprPzigg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-***
+- **Secundarios**: se derivan de los primarios y se refieren a cualidades como la Portabilidad, fiabilidad, eficiencia, usabilidad, capacidad de prueba, comprensibilidad y flexibilidad.
 
-## Breve descripción de la actividad
+- **Primitivos**: son aquellos aspectos más específicos y detallados que se asocian con los atributos secundarios y primarios, permitiendo una evaluación más precisa y detallada de la calidad del software.
 
-* En esta actividad nos dimos a la tarea de investigar sobre otra universidad que cuenta con el programa de Licenciatura de Ingeniría de Software, para hace la comparativa con el que ofrece nuestra universidad.
-* Como principales puntos de referencia abordamos temas como el objetivo del programa, la malla curricular, los conocimientos  técnicos, las "Soft skills", las actividades que promueven competencias y las  áreas de oportunidad.
+Las métricas que evalúan cada uno de los atributos son los siguientes:
+1. Portabilidad:
+     * Independencia del dispositivo
+     * Autocontención
+2. Fiabilidad:
+    * Autocontencion
+    * Exactitud
+    * Complititud
+    * Robustez
+    * Consistencia
+3. Eficiencia:
+    * Capacidad para rendir cuentas
+    * Eficiencia de dispositivos
+    * Accesibilidad
+4. Ergonomía:
+    * Robustez
+    * Accesibilidad,
+    * Facilidad de comunicación.
+5.	Facilidad de evaluación:
+    * Capacidad para rendir cuentas
+    * Accesibilidad
+    * Estructuración
+    * Autodescripción
+6. Compresibilidad:
+    * Autodescripción
+    * Estructuración
+    * Concisión
+    * Legibilidad.
+7. Facilidad para ser modificado:
+    * Estructuración
+    * Extensibilidad
 
-### Referencias
-* Universidad Popular Autónoma del Estado de Puebla (UPAEP). (s.f.). Ingeniería de Software. Recuperado de: https://www.upaep.mx/licenciaturas/ingenieria-de-software 
+[Mapa conceptual del modelo Boehm](https://2.bp.blogspot.com/-5wn_sVt8Nj4/W2EW7NTRELI/AAAAAAAAABk/tA9A2BAaESQBG34cR3dkkAlfbvNRoallgCLcBGAs/s1600/boehmmmm.png)
 
-* Universidad Autónoma de Yucatán (UADY). (s.f.). Perfil de Egreso - Licenciatura en Ingeniería de Software. Recuperado de: https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software
-* Universidad Autónoma de Yucatán (UADY). (2023). Triunfan estudiantes de matemáticas en Hackathon nacional. Recuperado de: https://uady.mx/noticias/url/triunfan-estudiantes-de-Matematicas-en-Hackathon-Nacional-uady
+Este enfoque jerárquico proporciona una estructura para evaluar y mejorar la calidad del software en múltiples niveles, permitiendo una comprensión detallada de sus características y su grado de cumplimiento con los estándares de calidad establecidos
 
 
+## Modelo de calidad: McCall
 
-* Universidad Popular Autónoma del Estado de Puebla (UPAEP). (s.f.). Internacionalización. Recuperado de: https://www.upaep.mx/internacionalizacion
+Constanzo. M. (2014) resume el método McCall en lo siguiente 
+
+> El estándar McCall utiliza tres perspectivas para evaluar la calidad del software. Este modelo identifica 11 factores y establece 23 criterios asociados a estos factores. Para medir estos criterios, propone métricas que se expresan como preguntas y asignan valores numéricos a los atributos del producto de software. Después de recopilar los valores de todas las métricas relacionadas con un criterio específico, se calcula su promedio para determinar el valor de dicho criterio.
+
+![image](https://github.com/alejandrolopezmldndo/FIS---EQUIPO-6/assets/133535448/93a21a64-5a72-48b9-89a0-7761b95c34e8)
+
+El modelo McCall utiliza 11 factores a evaluar divididas en tres perspectivas:
+* Operación se refiere a la capacidad del software para cumplir con sus especificaciones y funcionar de acuerdo con lo que se ha definido en los requisitos y expectativas previamente establecidos. Los factores que entran en esta perspectiva y sus respectivas métricas de evaluación son: 
+    - Corrección:
+        - Trazabilidad
+        - Completitud
+        - Consistencia     
+    - Fiabilidad
+        - Consistencia
+        - Exactitud
+        - Tolerancia a fallos 
+    - Eficiencia
+        - Eficiencia en ejecución
+        - Eficiencia en almacenamiento   
+    - Integridad
+        - Control de acceso
+        - Auditoria de acceso
+    - Usabilidad
+        - Operabilidad
+        - Formación
+        - Facilidad de comunicación 
+
+* Revisión se centra en evaluar la facilidad con la que el software puede ser adaptado, modificado o mejorado sin comprometer su funcionamiento o integridad. Sus factores son:
+    -	Facilidad de mantenimiento
+        - Simplicidad
+        - Concisión
+        - Autodescripción
+        - Modularidad	
+    -	Facilidad de prueba o evaluación
+        - Instrumentación
+        - Simplicidad 
+    -	Flexibilidad
+        - Extensibilidad
+        - Generalidad	
+
+
+* Transición capacidad de adaptar el software a diferentes entornos, sistemas operativos, plataformas o contextos sin perder su funcionalidad ni comprometer su rendimiento. En esta perspectiva están incluidos los factores de:
+    * Interoperabilidad
+        * Comunicaciones comunes
+        * Datos comunes
+    *	Portabilidad
+        *	Independencia de la maquina
+        *	Independencia del sistema operativo
+    *	Reusabilidad
+        *	Modularidad
+        *	Generalidad
+        *	Simplicidad
+        *	Independencia del sistema
+        *	Independencia de la maquina
+          
+![image](https://github.com/alejandrolopezmldndo/FIS---EQUIPO-6/assets/133535448/d4acd3da-3851-480c-9acf-e99e855a941a)
+
+## Reflexión y decisión del estándar de calidad para nuestro proyecto
+
+El modelo que utilizaríamos seria el de McCall porque es aun utilizado en la actualidad, así como otros modelos como el Boehm, se basan en este, aparte tenemos la certeza que se adapta perfectamente a nuestro proyecto de desarrollo de software, que implica un traductor de lenguaje de señas usando cámaras de dispositivos móviles con funciones educativas similares a Duolingo. Este modelo ofrece una evaluación completa de tres perspectivas clave: operatividad, transición y revisión, el cual, nos ayuda a garantizar la precisión en la interpretación de gestos, la fiabilidad en las traducciones, la eficiencia en la interacción con la cámara y la usabilidad para usuarios nuevos y aquellos que usan el traductor para comunicarse.
+
+McCall destaca criterios específicos para cada factor los cuales podríamos utilizar, ejemplos son utilizar el criterio de evaluación de la la consistencia en la interpretación de gestos, la precisión en las traducciones, y tolerancia a fallos en la captación de las señas mediante el traductor de señas. Además, se enfoca en la usabilidad y facilidad de aprendizaje, siendo esencial para un software dirigido a principiantes en lenguaje de señas o para una comunicación efectiva.
+
+El modelo promueve una mayor comprensión y alineación entre el equipo de desarrollo y los usuarios, ya que sus criterios establecidos facilitan la comunicación y la mejora continua del software según las necesidades y expectativas de los usuarios.
+
+En resumen, la elección del modelo de calidad de McCall para nuestro proyecto se justifica por su enfoque completo en la calidad, criterios detallados y capacidad para mejorar la comunicación entre el equipo de desarrollo y los usuarios.
+
+## Referencias
+* Fernández, C. (3 de julio de 2020). Modelo Boehm [video] URL: https://www.youtube.com/watch?v=YbNq3tr030M&ab_channel=CarmenzaFernandezOspitia
+* Ramírez, A. (7 de octubre de 2019). Modelos de calidad Boehm [Video] URL: https://www.youtube.com/watch?v=RtlflSqSo4c&ab_channel=AndresMauricioRamirezPuentes
+* Modelosred.com. (s.f.). Modelos de Calidad: Boehm. [Publicación en línea]. Recuperado de URL: https://modelosred.fandom.com/es/wiki/Modelo_de_Calidad_de_Boehm
+* Manco, C. (24 de septiembre de 2020). Modelo de calidad Boehm [Video] URL: https://www.youtube.com/watch?v=OoiiuJW14k&ab_channel=Andr%C3%A9sCamiloManco%C3%81lvarez
+* Constanzo M., Casas I., Marcos C. (2014). Comparación de modelos de calidad, factores y métricas en el ámbito de la ingeniería de software. Informe Científico-técnico UNPA, volumen 6, pagina 1. URL: https://publicaciones.unpa.edu.ar/index.php/ICTUNPA/article/view/395
+* Fandom. (s. f.). Modelo de Evaluación McCall. Recuperado de https://modelos-de-evaluacion-red-grupo9.fandom.com/wiki/MODELO_DE_EVALUACI%C3%93N_MCCALL 
+https://cdn.goconqr.com/uploads/node/image/33498787/desktop_615fc79c-314e-43ef-b6d7-b93693d68194.png
 
 
 
-* Universidad Popular Autónoma de Yucatán (UADY). (Agosto 2016). Plan de estudios de la Licenciatura en Ingeniería de Software. Recuperado de: https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
+
+
+
