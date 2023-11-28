@@ -41,7 +41,8 @@ Las métricas que evalúan cada uno de los atributos son los siguientes:
     * Estructuración
     * Extensibilidad
 
-[Mapa conceptual del modelo Boehm](https://2.bp.blogspot.com/-5wn_sVt8Nj4/W2EW7NTRELI/AAAAAAAAABk/tA9A2BAaESQBG34cR3dkkAlfbvNRoallgCLcBGAs/s1600/boehmmmm.png)
+![image](https://github.com/alejandrolopezmldndo/FIS---EQUIPO-6/assets/133535448/28a6e335-1f28-4ee0-89c5-9c0fcbe3ae65)
+
 
 Este enfoque jerárquico proporciona una estructura para evaluar y mejorar la calidad del software en múltiples niveles, permitiendo una comprensión detallada de sus características y su grado de cumplimiento con los estándares de calidad establecidos
 
