@@ -116,6 +116,13 @@ El modelo promueve una mayor comprensión y alineación entre el equipo de desar
 
 En resumen, la elección del modelo de calidad de McCall para nuestro proyecto se justifica por su enfoque completo en la calidad, criterios detallados y capacidad para mejorar la comunicación entre el equipo de desarrollo y los usuarios.
 
+## Artefactos
+
+
+## Auditoría de la gestión de la configuración del software
+
+
+
 ## Referencias
 * Fernández, C. (3 de julio de 2020). Modelo Boehm [video] URL: https://www.youtube.com/watch?v=YbNq3tr030M&ab_channel=CarmenzaFernandezOspitia
 * Ramírez, A. (7 de octubre de 2019). Modelos de calidad Boehm [Video] URL: https://www.youtube.com/watch?v=RtlflSqSo4c&ab_channel=AndresMauricioRamirezPuentes
