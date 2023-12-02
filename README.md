@@ -116,12 +116,17 @@ El modelo promueve una mayor comprensión y alineación entre el equipo de desar
 
 En resumen, la elección del modelo de calidad de McCall para nuestro proyecto se justifica por su enfoque completo en la calidad, criterios detallados y capacidad para mejorar la comunicación entre el equipo de desarrollo y los usuarios.
 
-## Artefactos
+# Auditoría de la gestión de la configuración del software
+Elegimos dos artefactos utilizados como parte de la tercera entrega, nuestros casos de uso y el diagrama de dichos casos. 
 
+## Informe
+La configuración del proyecto empieza con la producción de un cambio en la linea base que queda pendiente de aprobación. El primer chequeo busca que la linea base se mantenga funcional tras el cambio. Si no funciona, el código tiene que reimplementarse a la linea base con los cambios requeridos, en caso opuesto puede continuar al siguiente. Para nuestro diagrama, tuvimos que realizar un cambio debido a que hasbía un conflicto entre esta primera version y lo que se mostraba en nuestro prototipo en Figma, así que tuvimos que cambiarlo.
 
-## Auditoría de la gestión de la configuración del software
+Para el segundo chequeo, se revisa la integridad con respecto a los requisitos del proyecto y si ocurre un problema con los requisitos, éstos se tienen que cambiar. Con los casos de uso encontramos que no estaban adaptados a los nueuvos requerimientos que habíamos agregado en la entrega posterior. Como no hubo ningún problema con los que ya estaban anteriormente sólo tuvimos que regresarlo a nuestra producción para añadir los cambios necesarios.
 
+Adicionalmente, se realizan chequeos para asegurarnos de la calidad del la linea base como reflejar los cambios en la documentación y ser verificado por el líder del repositorio (Alejandro Maldonado).
 
+Nuestro proyecto no llevó a cabo el proceso de versionamiento para nuestros artefactos más que la propia fecha en la que se modificaron y la entrega de la que formaron parte. A pesar de que nos sería útil en varias partes del desarrollo del proyecto, decidimos referirnos a nuestras entregas como un apartado propio del proyecto y no tanto como un índice de sus iteraciones. Hasta el momento no hemos tenido ningún inconveniente entre el equipo o una falla en nuestro flujo de trabajo por ello, por lo que hemos puesto prioridad a otras partes de nuestra documentación.
 
 ## Referencias
 * Fernández, C. (3 de julio de 2020). Modelo Boehm [video] URL: https://www.youtube.com/watch?v=YbNq3tr030M&ab_channel=CarmenzaFernandezOspitia
