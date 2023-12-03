@@ -1,24 +1,4 @@
 # Estimación
-## COSMIC
-*Orita ponemos info*
-## WBS
-| idWBS   | Nombre                            | Duración | Costo estimado |
-|---------|-----------------------------------|----------|----------------|
-| 1       | Deafy App                         |          |                |
-| 1.1     | Gestión de cuentas de usuario     |          |                |
-| 1.1.1   | Creación de cuenta                |          |                |
-| 1.1.2   | Inicio de sesión                  |          |                |
-| 1.1.3   | Recuperación de contraseñas       |          |                |
-| 1.2     | Traducción LSM-Español            |          |                |
-| 1.2.1   | Identificación de señas           |          |                |
-| 1.2.2   | Librería de señas                 |          |                |
-| 1.2.3   | Traducción en tiempo real         |          |                |
-| 1.3     | Enseñanza de LSM                  |          |                |
-| 1.3.1   | Lecciones                         |          |                |
-| 1.3.1.1 | Formar actividades de aprendizaje |          |                |
-| 1.3.1.2 | Detección de cámara (para retro)  |          |                |
-| 1.4     | Interfaz de usuario               |          |                |
-## Diagrama de Gantt
 
 
 # Modelos de Calidad
