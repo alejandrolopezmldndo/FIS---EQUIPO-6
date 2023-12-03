@@ -130,6 +130,40 @@ Para el segundo chequeo, se revisa la integridad con respecto a los requisitos d
 Adicionalmente, se realizan chequeos para asegurarnos de la calidad del la linea base como reflejar los cambios en la documentación y ser verificado por el líder del repositorio (Alejandro Maldonado).
 
 Nuestro proyecto no llevó a cabo el proceso de versionamiento para nuestros artefactos más que la propia fecha en la que se modificaron y la entrega de la que formaron parte. A pesar de que nos sería útil en varias partes del desarrollo del proyecto, decidimos referirnos a nuestras entregas como un apartado propio del proyecto y no tanto como un índice de sus iteraciones. Hasta el momento no hemos tenido ningún inconveniente entre el equipo o una falla en nuestro flujo de trabajo por ello, por lo que hemos puesto prioridad a otras partes de nuestra documentación.
+# Checklist de Revisión del Proyecto
+
+## Chequeo 1: Mantenimiento de la Linea Base
+
+| No. | Descripción                                               | Estado    |
+| --- | --------------------------------------------------------- | --------- |
+| 1   | Realizar un cambio en la línea base pendiente de aprobación |           |
+| 2   | Verificar que la línea base se mantenga funcional         |           |
+| 3   | En caso de fallo, reimplementar el código a la línea base con cambios requeridos |           |
+| 4   | Continuar al siguiente chequeo si la línea base es funcional |           |
+
+### Notas Chequeo 1:
+- Hubo un conflicto entre la primera versión y el prototipo en Figma, se realizó un cambio para resolverlo.
+
+## Chequeo 2: Integridad con Requisitos del Proyecto
+
+| No. | Descripción                                               | Estado    |
+| --- | --------------------------------------------------------- | --------- |
+| 1   | Revisar la integridad con respecto a los requisitos del proyecto |           |
+| 2   | Modificar requisitos en caso de problemas identificados    |           |
+| 3   | Asegurarse de que los casos de uso se adapten a los nuevos requisitos |           |
+| 4   | Regresar a producción para añadir cambios necesarios en caso de problemas |           |
+
+### Notas Chequeo 2:
+- Casos de uso no estaban adaptados a los nuevos requisitos; se realizaron cambios necesarios.
+
+## Chequeos Adicionales de Calidad
+
+| No. | Descripción                                               | Estado    |
+| --- | --------------------------------------------------------- | --------- |
+| 1   | Reflejar cambios en la documentación                       |           |
+| 2   | Verificación por el líder del repositorio (Alejandro Maldonado) |           |
+
+
 
 ## Referencias
 * Fernández, C. (3 de julio de 2020). Modelo Boehm [video] URL: https://www.youtube.com/watch?v=YbNq3tr030M&ab_channel=CarmenzaFernandezOspitia
