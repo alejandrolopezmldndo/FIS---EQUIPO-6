@@ -1,3 +1,11 @@
+# Estimación
+## COSMIC
+*Orita ponemos info*
+## WBS
+
+## Diagrama de Gantt
+
+
 # Modelos de Calidad
 De acuerdo con Constanzo, M. (2014) los estándares o modelos de calidad en la ingeniería de software son conjuntos de criterios que orientan el desarrollo. Estos estándares aseguran la uniformidad en los procesos y sirven como guía para alcanzar tanto la productividad como la calidad.
 ## Modelo de calidad: Boehm
