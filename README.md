@@ -129,7 +129,8 @@ Para el segundo chequeo, se revisa la integridad con respecto a los requisitos d
 
 Adicionalmente, se realizan chequeos para asegurarnos de la calidad del la linea base como reflejar los cambios en la documentación y ser verificado por el líder del repositorio (Alejandro Maldonado).
 
-Nuestro proyecto no llevó a cabo el proceso de versionamiento para nuestros artefactos más que la propia fecha en la que se modificaron y la entrega de la que formaron parte. A pesar de que nos sería útil en varias partes del desarrollo del proyecto, decidimos referirnos a nuestras entregas como un apartado propio del proyecto y no tanto como un índice de sus iteraciones. Hasta el momento no hemos tenido ningún inconveniente entre el equipo o una falla en nuestro flujo de trabajo por ello, por lo que hemos puesto prioridad a otras partes de nuestra documentación.
+Durante el transcurso de nuestro proyecto, adoptamos una estrategia de versionamiento y entregas a través de la plataforma GitHub, donde los artefactos desempeñaron un papel fundamental, puesto que fueron incluidos como parte de una entrega, evolucionando gradualmente para cumplir con los requisitos específicos del proyecto. Este enfoque no solo facilitó un seguimiento preciso del progreso del desarrollo, sino que también fomentó una mayor colaboración entre los miembros del equipo. La sincronización de la evolución de los artefactos nos proporcionó una visión clara de la evolución del proyecto.
+
 # Checklist de Revisión del Proyecto
 
 ## Chequeo 1: Mantenimiento de la Linea Base
