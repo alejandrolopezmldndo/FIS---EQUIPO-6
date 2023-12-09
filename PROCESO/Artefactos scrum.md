@@ -18,7 +18,7 @@ Para que un incremento sea considerado terminado, tiene que cumplir con las sigu
 
 
 
-DoD
+Ejemplo en nuestro proyecto DoD
 
 Un ejemplo de un DoD en nuestro contexto, o sea nuestro proyecto. Seria asi: 
 
