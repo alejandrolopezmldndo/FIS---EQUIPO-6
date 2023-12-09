@@ -28,8 +28,9 @@ Por ende, en ese momento, el backlog lucía de la siguiente manera:
 
 | Actividad                                           | Prioridad  |
 |-----------------------------------------------------|------------|
+| Escribir Documentacion del diseño                   |      1     |      
+| Escribir Documentacion de los requisitos            |      1     |  
 | Escribir Documentacion de la evolucion de producto  |      3     |
-| Escribir Documentacion de los requisitos            |      2     | 
 | Escribir documentacion de pruebas                   |      2     |  
 | Escribir documentacion de proceso                   |      3     | 
 | Realizar el guion del video como presentacion       |      1     |
@@ -62,14 +63,15 @@ Una vez con las tareas generales asignadas al sprint, el lunes con la planeacion
 
 | Actividad                                                                                                             | Miembros                                         | Prioridad | Puntos(Modificalo alejandro)|
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|-----------------------------|
-| _*Escribir documentacion del diseño*_                                                                                 |                                                  |    1      |                             |
+| _*Escribir documentacion del diseño*_                                                                                 |                                                  |    2      |                             |
 | Subtareas:                                                                                                                                                                                                         |
+| Modificiar el diseño en base de los requerimientos                                                                    |                                                  | Alta      |                             |
+| Realizar pruebas de usabilidad con el diseño quetenemos                                                               |                                                  | Media     |                             |
+| Dar retroalimentacion y brindar ideas sobre posibles mejoras para el diseño como equipo                               |                                                  | Alta      |                             |
+| Recibir opiniones de usuarios fuera del equipo                                                                        |                                                  |           |                             |
+| Mejorar el dieño en base de las opiniones recibidas                                                                   |                                                  | Alta      |                             |
+| Escribir en la nueva documentacion sobre las modificaciones realizadas                                                |                                                  | Alta      |                             |
 | Recopilar prototipos de diseño                                                                                        | Todos                                            | Alta      |                             |
-|                                                                                                                       |                                                  | Media     |                             |
-|                                                                                                                       |                                                  | Alta      |                             |
-|                                                                                                                       |                                                  |           |                             |
-|                                                                                                                       |                                                  | Alta      |                             |
-|                                                                                                                       |                                                  | Alta      |                             |
 |                                                                                                                       |                                                  | Media     |                             |
 | _*Escribir Documentacion de los requisitos*_                                                                          |                                                  |           |                             |
 | Subtareas:                                                                                                                                                                                                         |
