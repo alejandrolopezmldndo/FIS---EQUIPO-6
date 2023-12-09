@@ -56,8 +56,9 @@ Las tareas del backlog general para la tercera entrega las cuales se le asigno a
 
 | Actividad                                           | Prioridad  |
 |-----------------------------------------------------|------------|
-| Escribir Documentacion del diseño                   |      1     |      
+| Escribir Documentacion del diseño                   |      2     |      
 | Escribir Documentacion de los requisitos            |      1     |     
+| Escribir documentacion de pruebas                   |      1     | 
 
 Una vez con las tareas generales asignadas al sprint, el lunes con la planeacion de actividades y la reunion en la weekly (porque nos veiamos en fis), las tareas se modularon y dividieron de la siguiente manera:
 
