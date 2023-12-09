@@ -72,6 +72,6 @@ Este requisito cuenta con interfaces en las que al terminar una lección, el sis
 
 * __RF-09: Asignación de medallas en las lecciones.__
 
-Este requisito cuenta con interfaces en las que cuando el usuario termina una lección, según el nivel de precisión obtenida en la retroalimentación, el sistema otorga una medalla de oro, plata o bronce en aquella lección finalizada.
+Este requisito cuenta con interfaces en las que cuando el usuario termina una lección, según el nivel de precisión obtenido en la retroalimentación, el sistema otorga una medalla de oro, plata o bronce en aquella lección finalizada.
 
 ![image](https://github.com/alejandrolopezmldndo/FIS---EQUIPO-6/assets/143463559/bfb03f3c-2bea-4410-8e62-6c12c16dc51c)
