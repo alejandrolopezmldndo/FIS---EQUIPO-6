@@ -10,10 +10,12 @@ Para que un incremento sea considerado terminado, puede tener alguno de estos cr
 + No presentar conflictos con otras partes del proyecto.
 + Cumplir con los lineamientos de diseño y usabilidad.
 + Cumplir con al menos uno de los requerimientos especificados.
+  
+---
 
 ## Ejemplo de DoD en nuestro Proyecto
-+ En nuestro proyecto, la aplicación DeafyApp, un ejemplo de la Definición de Terminado se podría aplicar a una historia de usuario que solicite una función específica en nuestra app (Deafyapp), por ejemplo:
 
+En nuestro proyecto, la aplicación DeafyApp, un ejemplo de la Definición de Terminado se podría aplicar a una historia de usuario que solicite una función específica en nuestra app (Deafyapp), por ejemplo:
 "Cliente: Quiero que agreguen una función a la app que incluya una caja de texto donde pueda ingresar una frase, y DeafyApp me traduzca esa frase al lenguaje de señas."
 Una vez definidos los requisitos de esta historia de usuario por el Project Manager, se pasa al equipo de desarrollo. Estos requisitos podrían ser:
 Despues del desarollo de la funcionalidad, antes de la entrega final de la funcionalidad al usuario debe cumplir con estándares de calidad antes de su entrega.
@@ -29,3 +31,5 @@ Por ejemplo, los criterios para la función mencionada podrían ser:
 + Aprobación de la funcionalidad por parte del equipo y el Product Owner.
 
 Si alguno de estos criterios no se cumple, la función no avanza a la etapa de entrega al cliente, lo que implica mejoras para cumplir con las expectativas del cliente.
+
+---
