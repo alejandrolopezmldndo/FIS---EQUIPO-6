@@ -18,6 +18,7 @@ Con el objetivo de mantener al equipo en funcionamiento en cada sprint y aumenta
 
 En esta entrega, la rúbrica fue entregada el 16 de noviembre en Teams, es decir, un jueves. Al día siguiente, Alejandro, quien se desempeña como el Project Manager o Propietario del Proyect, elaboró un backlog de tareas generales ordenadas por prioridad que se realizarían a lo largo de tres sprints con una duración de cinco días (de lunes a viernes). La lista de tareas que se había propuesto en ese instante era muy general, incluyendo únicamente aquellas que cumplían con los requisitos de la rúbrica de la tercera entrega.
 
+
 Por ende, en ese momento, el backlog lucía de la siguiente manera:
 
 1. Prioridad alta
@@ -29,9 +30,9 @@ Por ende, en ese momento, el backlog lucía de la siguiente manera:
 |-----------------------------------------------------|------------|
 | Escribir Documentacion de la evolucion de producto  |      3     |
 | Escribir Documentacion del diseño                   |      1     |      
-| Escribir Documentacion de los requisitos            |      1     | 
+| Escribir Documentacion de los requisitos            |      2     | 
 | Escribir documentacion de pruebas                   |      2     |  
-| Escribir documentacion de proceso                   |      2     | 
+| Escribir documentacion de proceso                   |      3     | 
 | Realizar el guion del video como presentacion       |      1     |
 | Escribir las competencias                           |      3     |     
 | Refinar artefactos                                  |      1     | 
@@ -43,8 +44,33 @@ Por ende, en ese momento, el backlog lucía de la siguiente manera:
 | Participar en la presentación                       |      3     |
 | Argumentar en competencias genéricas y específicas  |      3     | 
 | Redactar crítica constructiva                       |      3     | 
+| Organizar el repositorio                            |      3     | 
+
+Una vez obtenido un backlog general de las tareas que se debían realizar entre los sprints, comenzamos a dividir las distintas tareas en determinados sprints. Esto se hace en función de la prioridad de cada tarea y considerando si alguna depende de otra para poder llevarse a cabo en secuencia.
+
+Nuestra tercera entrega se dividió en tres sprints con lunes para planear y modular las tareas, asi para dividir las tareas entre los integrantes del equipo. Los jueves para entregar lo que se haya hecho a nuestro Project Manager (Alejandro Lopez Maldonado) y los viernes que el nos indique los errores o correciones en caso de que lo haya de las actividades que hayamos hecho.
+
+![image](https://github.com/Elias-Novel0/FIS---EQUIPO-6--Elias/assets/133535448/07fad4f5-0557-4263-ba85-932d3ba5013a)
+
+
+## Primer Sprint (Lunes 20 al viernes 24 de noviembre)
+Las tareas del backlog general para la tercera entrega las cuales se le asigno al primer sprint fueron:
+
+| Actividad                                           | Prioridad  |
+|-----------------------------------------------------|------------|
+| Escribir Documentacion del diseño                   |      1     |      
+| Escribir Documentacion de los requisitos            |      2     |     
+| Establecer requerimientos finales                   |      1     | 
+| Recopilar prototipos de diseño                      |      2     | 
 | Organizar el repositorio                            |      1     | 
 
+Una vez con las tareas generales asignadas al sprint, el lunes con planeacion y a la vez era nuestro weekly porque nos veiamos en fis. 
+Las tareas se modularon y dividieron de la siguiente manera:
+
+
+
+
+---
 
 
 
