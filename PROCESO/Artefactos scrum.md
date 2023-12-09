@@ -1,6 +1,6 @@
 
-# Definición de Terminado (DoD) en Scrum
-El DoD, o Definición de Terminado en Scrum, es una especie de lista de verificación que un equipo de desarrollo utiliza para asegurarse de que una tarea o historia de usuario esté completamente terminada. Esta lista establece los criterios necesarios para que el trabajo sea considerado finalizado y esté preparado para su entrega al cliente o usuario final. Incluye aspectos como pruebas realizadas, funcionalidades implementadas y revisadas, código escrito y revisado, y documentación actualizada, entre otros requisitos que garantizan la calidad del trabajo realizado.
+# Definition of Done (DoD) en Scrum
+El DoD o Definition of Done, es una especie de lista de verificación que un equipo de desarrollo utiliza para asegurarse de que una tarea o historia de usuario esté completamente terminada. Esta lista establece los criterios necesarios para que el trabajo sea considerado finalizado y esté preparado para su entrega al cliente o usuario final. Incluye aspectos como pruebas realizadas, funcionalidades implementadas y revisadas, código escrito y revisado, y documentación actualizada, entre otros requisitos que garantizan la calidad del trabajo realizado.
 
 Para que un incremento sea considerado terminado, puede tener alguno de estos criterios (depende de la funcionalidad, requisitos a desarollar y el equipo):
 
