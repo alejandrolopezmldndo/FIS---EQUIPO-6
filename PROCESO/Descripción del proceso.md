@@ -55,10 +55,10 @@ Nuestra tercera entrega se dividió en tres sprints con lunes para planear y mod
 Las tareas del backlog general para la tercera entrega las cuales se le asigno al primer sprint fueron:
 
 | Actividad                                           | Prioridad  |
-|-----------------------------------------------------|------------|
-| Escribir Documentacion del diseño                   |      2     |      
-| Escribir Documentacion de los requisitos            |      1     |     
-| Escribir documentacion de pruebas                   |      1     | 
+|-----------------------------------------------------|------------|   
+| Escribir Documentacion de los requisitos            |      1     |
+| Escribir documentacion de pruebas                   |      2     |
+| Escribir Documentacion del diseño                   |      3     |   
 
 Una vez con las tareas generales asignadas al sprint y utilizando el dia lunes como dia de planeacion de actividades, asi como de reunion "weekly", las tareas se modularon y dividieron en tareas mas pequeñas para dividirlas entre los compañeros del equipo. Las actividades en ese sprint quedaron de la siguiente manera: 
 
