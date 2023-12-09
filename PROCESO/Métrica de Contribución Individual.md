@@ -1,87 +1,74 @@
-# Métrica de Contribución
-## Primera Entrega
-| Actividad                                                             | Responsable | Porcentaje |
-|-----------------------------------------------------------------------|-------------|------------|
-| Crear y organizar el repositorio de GitHub                            |             | 5%         |
-| División de roles en el equipo                                        |             | 5%         |
-| Enseñar al equipo como hacer pull request                             | Elías       | 2%         |
-| Redactar del guión para el video                                      |             | 10%        |
-| Editar el video de entrega                                            | Martín      | 10%        |
-| Organización de las branches                                          |             | 3%         |
-| Redactar objetivo, usuarios/clientes y propuesta de valor (README)    |             | 5%         |
-| Redactar requisitos funcionales, no funcionales y priorización        |             | 15%        |
-| Escribir la descripción y gestión del proceso                         |             | 10%        |
-| Escribir la métrica de contribución individual                        |             | 10%        |
-| Escribir las competencias genericas y especiíficas                    |             | 5%         |
-| Participar en las reuniones de equipo                                 |             | 20%        |
-| Total                                                                 |             | 100%       |
+# Métrica de Contribución Individual de las tres entregas
 
-## Segunda entrega
-### Primer Sprint (9 al 14 de octubre): Definición y Planificación del bosquejo del prototipo
-| Tarea                                                                                                              | Responsable         | Porcentaje |
-|--------------------------------------------------------------------------------------------------------------------|---------------------|------------|
-| Realizar una reunión para discutir las funciones que se habían planteado anteriormente.                            |                     | 5%         |
-| Agregar, modificar o eliminar las funciones dentro de la app para agregarlo a la interfaz.                         |                     | 3%         |     
-| Investigar las herramientas de diseño disponibles.                                                                 |                     | 1%         |      
-| Crear una cuenta en Figma.                                                                                         |                     | 1%         |       
-| Descargar e instalar Figma en nuestros dispositivos.                                                               |                     | 1%         |       
-| Investigar cómo utilizar Figma.                                                                                    |                     | 3%         |      
-| Total                                                                                                              |                     | 14%        |   
-
-### Segundo Sprint (16 al 20 de octubre): Definición y Planificación del bosquejo del prototipo
-| Actividad                                                                                | Responsable | Porcentaje |
-|------------------------------------------------------------------------------------------|-------------|------------|
-| Investigar cómo funciona la teoría de color, tipografía y aspectos generales del diseño. |             | 5%         |
-| Diseñar un esquema tipo borrador de la navegación de la aplicación en Figma.             |             | 3%         |
-| Discutir en equipo las opciones disponibles de plantillas.                               |             | 1%         |
-| Escoger una plantilla que cumpla con lo que se busca.                                    |             | 1%         |
-| Realizar el diseño de las principales páginas que se usarán                              |             | 5%         |
-| Definir qué funciones harán uso de la cámara.                                            |             | 3%         |
-| Diseñar el prototipo de la interfaz del apartado de la cámara.                           |             | 5%         |
-| Realizar las modificaciones necesarias en la plantilla.                                  |             | 3%         |
-| Total                                                                                    |             | 26%        |
-
-### Tercer sprint (23 al 27 de Octubre): Retroalimentación y ajustes
-| Actividad                                                                                                                              | Responsable | Porcentaje |
-|----------------------------------------------------------------------------------------------------------------------------------------|-------------|------------|
-| Identificar posibles mejoras                                                                                                           |             | 3%         |
-| Como equipo, discutir las mejoras que deben modificarse.                                                                               |             | 3%         |
-| Recibir retroalimentación de la interfaz de personas ajenas al equipo para verificar que la interfaz cumpla con su función.            |             | 5%         |
-| Crear una lista de cosas que deben modificarse y mejorar en base a las opiniones y retroalimentacionees.                               |             | 5%         |
-| Con la lista ya creada de modificaciones, modificar el prototipo de la aplicación según sea necesario.                                 |             | 5%         |
-| Modificar el logotipo de la aplicacion inicial de la primera entrega en caso de ser necesario e integrarlo en el diseño del prototipo. |             | 1%         |
-| Total                                                                                                                                  |             | 22%        |
-
-### Cuarto sprint (30 de Octubre al 5 de Noviembre )
-| Actividad                                                                                                       | Responsable | Porcentaje |
-|-----------------------------------------------------------------------------------------------------------------|-------------|------------|
-| Desarrollar un guion o esquema para el video que describa los temas a tratar y la estructura general del video. |             | 5%         |
-| Grabar las escenas o contenido visual necesario para el video.                                                  |             | 5%         |
-| Editar y ensamblar las grabaciones en un video coherente.                                                       |             | 3%         |
-| Compartir el video integrantes del equipo y obtener retroalimentación.                                          |             | 1%         |
-| Realizar revisiones y ajustes según sea necesario.                                                              |             | 3%         |
-| Subir el video a la plataforma a YouTube y compartir en enlace en GitHub                                        |             | 5%         |
-| Documentación y subida de requisitos                                                                            |             | 3%         |
-| Documentación y subida de competencias                                                                          |             | 3%         |
-| Documentación y subida de diseño                                                                                |             | 5%         |
-| Documentación y subida de proceso                                                                               |             | 5%         |
-| Total                                                                                                           |             | 38%        |
-
-## Tercera entrega
-| Actividad                                           | Responsable | Porcentaje |
-|-----------------------------------------------------|-------------|------------|
-| Escribir resumen de la evolución del producto       |             | 5%         |
-| Entrevistar a usuarios                              |             | 10%        |
-| Redactar sección de innovación                      |             | 5%         |
-| Mejorar requisitos                                  |             | 10%        |
-| Refinar artefactos                                  |             | 5%         |
-| Establecer requerimientos finales                   |             | 15%        |
-| Recopilar prototipos de diseño                      |             | 5%         |
-| Realizar pruebas informales                         |             | 5%         |
-| Mejorar el proceso                                  |             | 20%        |
-| Resumir información importante para la presentación |             | 5%         |
-| Participar en la presentación                       | Todos       | 15%        |
-| Argumentar en competencias genéricas y específicas  |             | 5%         |
-| Redactar crítica constructiva                       |             | 5%         |
-| Organizar el repositorio                            |             | 10%        |
-| Total                                               |             | 100%       |
+| Actividad                                                           | Miembros                                         | Prioridad | Puntos |
+|---------------------------------------------------------------------|--------------------------------------------------|-----------|--------|
+| Crear el repositorio de GitHub                                      | Alejandro                                        | Baja      | 1      |
+| División de roles en el equipo                                      | Alejandro                                        | Media     | 2      |
+| Enseñar al equipo como hacer pull  request                          | Elías                                            | Media     | 2      |
+| Ofrecer idea para el proyecto                                       | Jesse                                            | Baja      | 1      |
+| Redactar del guión para el video                                    | Jaziel y Martín                                  | Alta      | 6      |
+| Editar el video de entrega                                          | Martín                                           | Media     | 2      |
+| Organización de las branches                                        | Alejandro                                        | Baja      | 1      |
+| Proteger la main branch                                             | Alejandro                                        | Baja      | 1      |
+| Redactar objetivo, usuarios/clientes  y propuesta de valor (README) | Elías                                            | Alta      | 3      |
+| Redactar requisitos funcionales, no funcionales y priorización      | Alejandro                                        | Alta      | 3      |
+| Escribir la descripción y gestión del proceso                       | Alejandro                                        | Media     | 2      |
+| Escribir la métrica de contribución individual                      | Jesse                                            | Baja      | 1      |
+| Escribir las competencias genericas y especiíficas                  | Aurora                                           | Media     | 2      |
+| Enviar la información correspondiente al repositorio                | Alejandro, Elías, Martín, Aurora, Jaziel y Jesse | Alta      | 15     |
+| Participar en las reuniones de equipo                               | Alejandro, Elías, Martín, Aurora, Jaziel y Jesse | Baja      | 5      |
+| __*Modificar los requisitos y funciones mínimas anteriormente creadas en la
+primera entrega para el primer prototipo.*__                                                                            |                                                  |           |        |
+| 1. Realizar una reunión para discutir las funciones que se habían planteado anteriormente.                            | Todos                                            | Alta      |   3    |
+| 2. Agregar, modificar o eliminar las funciones dentro de la app para agregarlo a la interfaz.                         | Alejandro                                        | Media     |   2    |
+| __*Establecer un entorno de diseño (FIGMA).*__                                                                        |                                                  |           |        |
+| 1. Investigar las herramientas de diseño disponibles.                                                                 | Todos                                            | Media     |   2    |
+| 2. Realizar reunión para decidir la herramienta.                                                                      | Todos                                            | Alta      |   3    |
+| __*Investigar cómo se utiliza el entorno de diseño.*__                                                                |                                                  |           |        |
+| 1. Crear una cuenta en Figma.                                                                                         | Todos                                            | Alta      |   3    |
+| 2. Descargar e instalar Figma en nuestros dispositivos.                                                               | Todos                                            | Alta      |   3    |
+| 3. Investigar cómo utilizar Figma.                                                                                    | Todos                                            | Media     |   2    |
+| __*Desarrollar el diseño de la interfaz de usuario de la aplicación.*__ | | | |
+| 1. Investigar cómo funciona la teoría de color, tipografía y aspectos generales del diseño. | Todos | Alta | 3 |
+| 2. Diseñar un esquema tipo borrador de la navegación de la aplicación en Figma. | Elias | Media | 2 |
+| 3. Discutir en equipo las opciones disponibles de plantillas. | Todos | Media | 2 |
+| 4. Escoger una plantilla que cumpla con lo que se busca. | Jareth | Alta | 3 |
+| 5. Realizar el diseño de las principales páginas que se usarán. | Martin | Media | 2 |
+| __*Diseñar un prototipo que haga la ilusión de la cámara que traduce el lenguaje de señas.*__ |  | | |
+| 1. Definir qué funciones harán uso de la cámara. | Alejandro | Alta | 3 |
+| 2. Diseñar el prototipo de la interfaz del apartado de la cámara. | Aurora | Alta | 3 |
+| __*Realizar el diseño del apartado de aprendizaje del usuario.*__ || | | 
+| 1. Obtener ideas de aplicaciones similares. | Todos | Media | 2 |
+| 2. Con las investigaciones previas, escoger una plantilla que satisfaga las necesidades. | Oswaldo | Alta | 3 |
+| 3. Realizar las modificaciones necesarias en la plantilla. | Todos | Baja | 1 |
+| 1.	Identificar posibles mejoras.                                                                                                         | Todos     | Media     | 2      | 
+| 2. Como equipo, discutir las mejoras que deben modificarse.                                                                               | Todos     | Media     | 2      |
+| 3. Recibir retroalimentación de la interfaz de personas ajenas al equipo para verificar que la interfaz cumpla con su función.            | Todos     | Alta      | 3      |  
+| 4. Crear una lista de cosas que deben modificarse y mejorar en base a las opiniones y retroalimentacionees.                               | Todos     | Alta      | 3      |
+| 5. Con la lista ya creada de modificaciones, modificar el prototipo de la aplicación según sea necesario.                                 | Alejandro | Alta      | 3      |
+| 6. Modificar el logotipo de la aplicacion inicial de la primera entrega en caso de ser necesario e integrarlo en el diseño del prototipo. | Alejandro | Baja      | 1      |
+| 1. Desarrollar un guion o esquema para el video que describa los temas a tratar y la estructura general del video.                                  | Martin y Jaziel     | Alta      | 3 | 
+| 2. Grabar las escenas o contenido visual necesario para el video.                                                                                   | Martin y Jaziel     | Alta      | 2 |
+| 3. Editar y ensamblar las grabaciones en un video coherente. Agregar efectos, transiciones, música de fondo, y otros elementos según sea necesario. | Martin y Jaziel     | Alta      | 3 |  
+| 4. Compartir el video integrantes del equipo y obtener retroalimentación.                                                                           | Martin y Jaziel     | Baja      | 1 |
+| 5. Realizar revisiones y ajustes según sea necesario.                                                                                               | Martin y JAziel     | Media     | 2 |
+| 6. Subir el video a la plataforma a YouTube y compartir en enlace en GitHub                                                                         | Todos               | Alta      | 3 |  
+| 7. Documentación y subida de requisitos                                                                                                             | Alejandro           | Media     | 3 |
+| 8. Documentación y subida de competencias                                                                                                           | Oswaldo             | Baja      | 1 |
+| 9. Documentación y subida de diseño                                                                                                                 | Alejandro           | Alta      | 3 |
+| 10. Documentación y subida de proceso                                                                                                               | Elias y Aurora      | Media     | 2 |
+| Escribir resumen de la evolución del producto       |Jesse y Elias             |Media       | 2
+| Entrevistar a usuarios                              |Aurora             |Media         | 2
+| Redactar sección de innovación                      | Elías            |Baja          |1
+| Mejorar requisitos                                  | Todos            |Alta         |3
+| Refinar artefactos                                  | Martín y Jesse            |Media          |2
+| Establecer requerimientos finales                   |Alejandro             |Media         |2
+| Mejorar el prototipo de diseño                      | Todos            |Alta          |3
+| Realizar pruebas informales                         | Alejandro            |Alta          |3
+| Mejorar el proceso                                  | Elías y Jesse            |Alta         |3
+| Resumir información importante para la presentación | Jareth, Jesse y Aurora            |Media          |2
+| Participar en la presentación                       | Todos       |Alta         |3
+| Argumentar en competencias genéricas y específicas  | Aurora            |Media          |2
+| Redactar crítica constructiva                       | Aurora            |Baja          |1
+| Organizar el repositorio                            | Aurora           |Baja         |1
+| Total                                               |             |        |411
