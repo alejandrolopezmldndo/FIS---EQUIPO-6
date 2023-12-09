@@ -16,10 +16,13 @@ Con el objetivo de mantener al equipo en funcionamiento en cada sprint y aumenta
 
 | Actividad                                           | Responsable | Porcentaje |
 |-----------------------------------------------------|-------------|------------|
-| Escribir resumen de la evolución del producto       |             | 5%         |
-| Entrevistar a usuarios                              |             | 10%        |
-| Redactar sección de innovación                      |             | 5%         |
-| Mejorar requisitos                                  |             | 10%        |
+| Escribir Documentacion de la evolucion de producto  |             | 5%         |
+| Escribir Documentacion del diseño                   |             |            |
+| Escribir Documentacion de los requisitos            |             | 10%        |
+| Escribir documentacion de pruebas                   |             |            |
+| Escribir documentacion de proceso                   |             | 5%         |
+| Realizar el guion del video como presentacion       |             | 10%        |
+| Escribir las competencias                           |             |            |
 | Refinar artefactos                                  |             | 5%         |
 | Establecer requerimientos finales                   |             | 15%        |
 | Recopilar prototipos de diseño                      |             | 5%         |
