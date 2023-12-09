@@ -29,7 +29,7 @@ Por ende, en ese momento, el backlog lucía de la siguiente manera:
 | Actividad                                           | Prioridad  |
 |-----------------------------------------------------|------------|
 | Escribir Documentacion de la evolucion de producto  |      3     |
-| Escribir Documentacion del diseño                   |      1     |      
+|                    |      1     |      
 | Escribir Documentacion de los requisitos            |      2     | 
 | Escribir documentacion de pruebas                   |      2     |  
 | Escribir documentacion de proceso                   |      3     | 
@@ -58,15 +58,26 @@ Las tareas del backlog general para la tercera entrega las cuales se le asigno a
 
 | Actividad                                           | Prioridad  |
 |-----------------------------------------------------|------------|
-| Escribir Documentacion del diseño                   |      1     |      
+| Escribir Documentacion del diseño                   |      2     |      
 | Escribir Documentacion de los requisitos            |      2     |     
 | Establecer requerimientos finales                   |      1     | 
-| Recopilar prototipos de diseño                      |      2     | 
-| Organizar el repositorio                            |      1     | 
+| Recopilar prototipos de diseño                      |      1     | 
 
-Una vez con las tareas generales asignadas al sprint, el lunes con planeacion y a la vez era nuestro weekly porque nos veiamos en fis. 
-Las tareas se modularon y dividieron de la siguiente manera:
+Una vez con las tareas generales asignadas al sprint, el lunes con la planeacion de actividades y la reunion en la weekly (porque nos veiamos en fis), las tareas se modularon y dividieron de la siguiente manera:
 
+| Actividad                                                                                                             | Miembros                                         | Prioridad | Puntos(Modificalo alejandro)|
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|-----------------------------|
+| _*Escribir Documentacion del diseño*_                                                                                 |                                                  |    1      |                             |
+| Subtareas:                                                                                                                                                                                                          |
+| Recopilar prototipos de diseño                                                                                        | Todos                                            | Alta      |                             |
+| 2. Agregar, modificar o eliminar las funciones dentro de la app para agregarlo a la interfaz.                         | Alejandro                                        | Media     |                             |
+|  Establecer requerimientos finales                                                                                    |                                                  |           |                             |
+| 1. Investigar las herramientas de diseño disponibles.                                                                 | Todos                                            | Media     |                             |
+| 2. Realizar reunión para decidir la herramienta.                                                                      | Todos                                            | Alta      |                             |
+| __*Investigar cómo se utiliza el entorno de diseño.*__                                                                |                                                  |           |                             |
+| 1. Crear una cuenta en Figma.                                                                                         | Todos                                            | Alta      |                             |
+| 2. Descargar e instalar Figma en nuestros dispositivos.                                                               | Todos                                            | Alta      |                             |
+| 3. Investigar cómo utilizar Figma.                                                                                    | Todos                                            | Media     |                             |
 
 
 
