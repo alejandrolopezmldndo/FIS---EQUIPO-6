@@ -60,7 +60,7 @@ Las tareas del backlog general para la tercera entrega las cuales se le asigno a
 | Escribir Documentacion de los requisitos            |      1     |     
 | Escribir documentacion de pruebas                   |      1     | 
 
-Una vez con las tareas generales asignadas al sprint, el lunes con la planeacion de actividades y la reunion en la weekly (porque nos veiamos en fis), las tareas se modularon y dividieron de la siguiente manera:
+Una vez con las tareas generales asignadas al sprint y utilizando el dia lunes como dia de planeacion de actividades, asi como de reunion "weekly", las tareas se modularon y dividieron en tareas mas pequeñas para dividirlas entre los compañeros del equipo. Las actividades en ese sprint quedaron de la siguiente manera: 
 
 | Actividad                                                                                                             | Miembros                                         | Prioridad | Puntos(Modificalo alejandro)|
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|-----------------------------|
@@ -73,7 +73,7 @@ Una vez con las tareas generales asignadas al sprint, el lunes con la planeacion
 | Establecer requerimientos finales                                                                                     |                                                  | Alta      |                             |
 | Escribir las modificaciones que se realizaron en los requisitos                                                       |                                                  | Media     |                             |
 |                                                                                                                       |                                                  |           |                             |
-| _*Escribir documentacion del diseño*_                                                                                 |                                                  |    2      |                             |
+| _*Escribir documentacion del diseño*_                                                                                 |                                                  |           |                             |
 | Subtareas:                                                                                                                                                                                                         |
 | Modificiar el diseño en base de los requerimientos                                                                    |                                                  | Alta      |                             |
 | Realizar pruebas de usabilidad con el diseño quetenemos                                                               |                                                  | Media     |                             |
