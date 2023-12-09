@@ -14,23 +14,37 @@ Con el objetivo de mantener al equipo en funcionamiento en cada sprint y aumenta
 
 ---
 
-| Actividad                                           | Responsable | Porcentaje |
-|-----------------------------------------------------|-------------|------------|
-| Escribir Documentacion de la evolucion de producto  |             | 5%         |
-| Escribir Documentacion del diseño                   |             |            |
-| Escribir Documentacion de los requisitos            |             | 10%        |
-| Escribir documentacion de pruebas                   |             |            |
-| Escribir documentacion de proceso                   |             | 5%         |
-| Realizar el guion del video como presentacion       |             | 10%        |
-| Escribir las competencias                           |             |            |
-| Refinar artefactos                                  |             | 5%         |
-| Establecer requerimientos finales                   |             | 15%        |
-| Recopilar prototipos de diseño                      |             | 5%         |
-| Realizar pruebas informales                         |             | 5%         |
-| Mejorar el proceso                                  |             | 20%        |
-| Resumir información importante para la presentación |             | 5%         |
-| Participar en la presentación                       | Todos       | 15%        |
-| Argumentar en competencias genéricas y específicas  |             | 5%         |
-| Redactar crítica constructiva                       |             | 5%         |
-| Organizar el repositorio                            |             | 10%        |
-| Total                                               |             | 100%       |
+# Descripción del proceso
+
+En esta entrega, la rúbrica fue entregada el 16 de noviembre en Teams, es decir, un jueves. Al día siguiente, Alejandro, quien se desempeña como el Project Manager o Propietario del Proyect, elaboró un backlog de tareas generales ordenadas por prioridad que se realizarían a lo largo de tres sprints con una duración de cinco días (de lunes a viernes). La lista de tareas que se había propuesto en ese instante era muy general, incluyendo únicamente aquellas que cumplían con los requisitos de la rúbrica de la tercera entrega.
+
+Por ende, en ese momento, el backlog lucía de la siguiente manera:
+
+1. Prioridad alta
+2. Prioridad media
+3. Prioridad baja
+
+
+| Actividad                                           | Prioridad  |
+|-----------------------------------------------------|------------|
+| Escribir Documentacion de la evolucion de producto  |      2     |
+| Escribir Documentacion del diseño                   |      1     |      
+| Escribir Documentacion de los requisitos            |      1     | 
+| Escribir documentacion de pruebas                   |      2     |  
+| Escribir documentacion de proceso                   |      2     | 
+| Realizar el guion del video como presentacion       |      1     |
+| Escribir las competencias                           |      3     |     
+| Refinar artefactos                                  |      1     | 
+| Establecer requerimientos finales                   |      1     | 
+| Recopilar prototipos de diseño                      |      2     |
+| Realizar pruebas informales                         |      3     | 
+| Mejorar el proceso                                  |      2     |
+| Resumir información importante para la presentación |      3     | 
+| Participar en la presentación                       |      3     |
+| Argumentar en competencias genéricas y específicas  |      3     | 
+| Redactar crítica constructiva                       |      3     | 
+| Organizar el repositorio                            |      1     | 
+
+
+
+
