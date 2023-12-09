@@ -1,3 +1,5 @@
+---
+
 # Resumen de los cambios del proceso en esta entrega:
 El proceso fue mejorado en cuestión de implementación de algunos conceptos de scrum y estructuración del sprint. Ahora enumeraremos las mejoras y modificaciones implementadas en este proceso.
 
@@ -10,3 +12,22 @@ Anteriormente, la planeación solo se realizaba una vez, antes de comenzar los s
 ## 3.	Se comenzó a utilizar "weeklys" para conocer el progreso de los compañeros de equipo en sus tareas asignadas:
 Con el objetivo de mantener al equipo en funcionamiento en cada sprint y aumentar la productividad en las tareas asignadas a cada compañero, se decidió llevar a cabo "weeklys" dentro de la escuela, ya que es más fácil compartir nuestras dificultades y dudas relacionadas con las tareas en ese entorno, ya que medios digitales como el wasap era un poco complicado porque no era al instante la comunicación atrasando a cada compañero en sus tareas asignadas. Estas "weeklys" consistían únicamente en que el propietario del proyecto o el gerente (Alejandro LOPEZ MALDOFUCKINADO) nos preguntara, cuando estábamos juntos, qué íbamos a hacer esa semana, qué tareas éramos capaces y estábamos seguros de poder cumplir, así como plantear algunas dudas sobre nuestras tareas.
 
+---
+
+| Actividad                                           | Responsable | Porcentaje |
+|-----------------------------------------------------|-------------|------------|
+| Escribir resumen de la evolución del producto       |             | 5%         |
+| Entrevistar a usuarios                              |             | 10%        |
+| Redactar sección de innovación                      |             | 5%         |
+| Mejorar requisitos                                  |             | 10%        |
+| Refinar artefactos                                  |             | 5%         |
+| Establecer requerimientos finales                   |             | 15%        |
+| Recopilar prototipos de diseño                      |             | 5%         |
+| Realizar pruebas informales                         |             | 5%         |
+| Mejorar el proceso                                  |             | 20%        |
+| Resumir información importante para la presentación |             | 5%         |
+| Participar en la presentación                       | Todos       | 15%        |
+| Argumentar en competencias genéricas y específicas  |             | 5%         |
+| Redactar crítica constructiva                       |             | 5%         |
+| Organizar el repositorio                            |             | 10%        |
+| Total                                               |             | 100%       |
