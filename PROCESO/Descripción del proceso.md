@@ -83,7 +83,7 @@ Una vez con las tareas generales asignadas al sprint, el lunes con la planeacion
 | Escribir en la nueva documentacion sobre las modificaciones realizadas                                                |                                                  | Alta      |                             |
 | Recopilar prototipos de diseño                                                                                        | Todos                                            | Alta      |                             |
 |                                                                                                                       |                                                  |           |                             |
-
+|                                                                                                                       |                                                  |           |                             |
 |                                                                                                                       |                                                  | Media     |                             |
 |                                                                                                                       |                                                  | Alta      |                             |
 |                                                                                                                       |                                                  |           |                             |
