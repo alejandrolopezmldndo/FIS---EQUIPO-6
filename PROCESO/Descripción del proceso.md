@@ -27,7 +27,7 @@ Por ende, en ese momento, el backlog lucía de la siguiente manera:
 
 | Actividad                                           | Prioridad  |
 |-----------------------------------------------------|------------|
-| Escribir Documentacion de la evolucion de producto  |      2     |
+| Escribir Documentacion de la evolucion de producto  |      3     |
 | Escribir Documentacion del diseño                   |      1     |      
 | Escribir Documentacion de los requisitos            |      1     | 
 | Escribir documentacion de pruebas                   |      2     |  
