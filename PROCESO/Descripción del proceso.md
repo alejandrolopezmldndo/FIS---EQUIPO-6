@@ -18,6 +18,7 @@ Con el objetivo de mantener al equipo en funcionamiento en cada sprint y aumenta
 
 En esta entrega, la rúbrica fue entregada el 16 de noviembre en Teams, es decir, un jueves. Al día siguiente, Alejandro, quien se desempeña como el Project Manager o Propietario del Proyect, elaboró un backlog de tareas generales ordenadas por prioridad que se realizarían a lo largo de tres sprints con una duración de cinco días (de lunes a viernes). La lista de tareas que se había propuesto en ese instante era muy general, incluyendo únicamente aquellas que cumplían con los requisitos de la rúbrica de la tercera entrega.
 
+
 Por ende, en ese momento, el backlog lucía de la siguiente manera:
 
 1. Prioridad alta
@@ -27,24 +28,128 @@ Por ende, en ese momento, el backlog lucía de la siguiente manera:
 
 | Actividad                                           | Prioridad  |
 |-----------------------------------------------------|------------|
-| Escribir Documentacion de la evolucion de producto  |      3     |
 | Escribir Documentacion del diseño                   |      1     |      
-| Escribir Documentacion de los requisitos            |      1     | 
+| Escribir Documentacion de los requisitos            |      1     |  
+| Escribir Documentacion del producto                 |      3     |
 | Escribir documentacion de pruebas                   |      2     |  
-| Escribir documentacion de proceso                   |      2     | 
+| Escribir documentacion de proceso                   |      3     | 
 | Realizar el guion del video como presentacion       |      1     |
 | Escribir las competencias                           |      3     |     
 | Refinar artefactos                                  |      1     | 
-| Establecer requerimientos finales                   |      1     | 
-| Recopilar prototipos de diseño                      |      2     |
-| Realizar pruebas informales                         |      3     | 
+|                          |      3     | 
 | Mejorar el proceso                                  |      2     |
-| Resumir información importante para la presentación |      3     | 
-| Participar en la presentación                       |      3     |
-| Argumentar en competencias genéricas y específicas  |      3     | 
+| |      3     | 
+|                      |      3     |
+|   |      3     | 
 | Redactar crítica constructiva                       |      3     | 
-| Organizar el repositorio                            |      1     | 
+|                            |      3     | 
 
+Una vez obtenido un backlog general de las tareas que se debían realizar entre los sprints, comenzamos a dividir las distintas tareas en determinados sprints. Esto se hace en función de la prioridad de cada tarea y considerando si alguna depende de otra para poder llevarse a cabo en secuencia.
+
+Nuestra tercera entrega se dividió en tres sprints con lunes para planear y modular las tareas, asi para dividir las tareas entre los integrantes del equipo. Los jueves para entregar lo que se haya hecho a nuestro Project Manager (Alejandro Lopez Maldonado) y los viernes que el nos indique los errores o correciones en caso de que lo haya de las actividades que hayamos hecho.
+
+![image](https://github.com/Elias-Novel0/FIS---EQUIPO-6--Elias/assets/133535448/07fad4f5-0557-4263-ba85-932d3ba5013a)
+
+
+## Primer Sprint (Lunes 20 al viernes 24 de noviembre)
+Las tareas del backlog general para la tercera entrega las cuales se le asigno al primer sprint fueron:
+
+| Actividad                                           | Prioridad  |
+|-----------------------------------------------------|------------|   
+| Escribir Documentacion de los requisitos            |      1     |
+| Escribir documentacion de pruebas                   |      2     |
+| Escribir Documentacion del diseño                   |      3     |   
+
+Una vez con las tareas generales asignadas al sprint y utilizando el dia lunes como dia de planeacion de actividades, asi como de reunion "weekly", las tareas se modularon y dividieron en tareas mas pequeñas para dividirlas entre los compañeros del equipo. Las actividades en ese sprint quedaron de la siguiente manera: 
+
+| Actividad                                                                                                             | Miembros                                         | Prioridad | Puntos(Modificalo alejandro)|
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|-----------------------------|
+| _*Escribir Documentacion de los requisitos*_                                                                          |                                                  |           |                             |
+| Subtareas:                                                                                                                                                                                                         |
+| Redefinir los requisitos funcionales y no funcionales de la aplicación.                                               |                                                  | Media     |                             |
+| Discutir sobre posibles modificaciones en los requisitos                                                              |                                                  | Alta      |                             |
+| Priorizar los requisitos según su importancia y viabilidad.                                                           |                                                  |           |                             |
+| Escribir descripciones detalladas de cada requisito.                                                                  |                                                  | Alta      |                             |
+| Establecer requerimientos finales                                                                                     |                                                  | Alta      |                             |
+| Escribir las modificaciones que se realizaron en los requisitos                                                       |                                                  | Media     |                             |
+|                                                                                                                       |                                                  |           |                             |
+| _*Escribir documentacion del diseño*_                                                                                 |                                                  |           |                             |
+| Subtareas:                                                                                                                                                                                                         |
+| Modificar el diseño en base de los requerimientos                                                                     |                                                  | Alta      |                             |
+| Realizar pruebas de usabilidad con el diseño quetenemos                                                               |                                                  | Media     |                             |
+| Dar retroalimentacion y brindar ideas sobre posibles mejoras para el diseño como equipo                               |                                                  | Alta      |                             |
+| Recibir opiniones de usuarios fuera del equipo                                                                        |                                                  |           |                             |
+| Mejorar el dieño en base de las opiniones recibidas                                                                   |                                                  | Alta      |                             |
+| Escribir en la nueva documentacion sobre las modificaciones realizadas                                                |                                                  | Alta      |                             |
+| Recopilar prototipos de diseño                                                                                        | Todos                                            | Alta      |                             |
+|                                                                                                                       |                                                  |           |                             |
+| _*Escribir documentacion de pruebas*_                                                                                 |                                                  |           |                             |
+| Realizar pruebas informales                                                                                           |                                                  | Media     |                             |
+| Establecer la herramienta donde llevaremos                                                                            |                                                  | Alta      |                             |
+| Escribir los casos de usuario                                                                                         |                                                  |           |                             |
+| ESTABLECER LA HERRAMIENTA donde pondran los porcentajes de los resultados obtenidos de las pruebas (Google forms)     |                                                  | Alta      |                             |
+| Establecer los requisitos a poner a prueba                                                                            |                                                  | Alta      |                             |
+| Empezar con la documentacion final de prueba                                                                          |                                                  |           |                             |
+| Escribir los resultados obtenidos de las pruebas en la documentacíon final                                            |                                                  | Media     |                             |
+| Documentar todo el proceso de pruebas en sus respectivos apartados.                                                   |                                                  | Media     |                             |
+
+## Segundo Sprint
+Para la segunda semana de sprint decidimos realizar del backlog general estas actividades. 
+
+| Actividad                                           | Prioridad  |
+|-----------------------------------------------------|------------|  
+| Escribir la parte de las compentencias              | 2          |
+| Escribir documentacion del producto                 |      3     |
+
+
+Una vez moduladas y divididas entre los integrantes del equipo, en su dia determinado del sprint como planeacion, el backlog de ese sprint quedo de la siguiente forma:
+
+| Actividad                                                                                                             | Miembros                                         | Prioridad | Puntos(Modificalo alejandro)|
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|-----------------------------|
+| _*Escribir la parte de las compentencias*_                                                                            |                                                  |           |                             |
+|                                                                                                                       |                                                  | Alta      |                             |
+| _*Escribir la documentacion del producto*_                                                                            |                                                  |           |                             | 
+| Argumentar en competencias genéricas y específicas                                                                    |                                                  | Alta      |                             |
+|                                                                                                                       |                                                  |           |                             |     
+|                                                                                                                       |                                                  |           |                             |
+| _*Escribir la documentacion del producto*_                                                                            |                                                  |           |                             | 
+| Escribir y mejorar la descripción de nuestra aplicación.                                                              |                                                  | Alta      |                             |
+| En caso necesario, mejorar el apartado que describe la problemática resuelta por nuestra app.                         |                                                  |           |                             |
+| Revisar y corregir errores ortográficos y gramaticales en los textos mejorados.                                       |                                                  | Alta      |                             |
+| Comenzar el borrador de la evolución de nuestro producto.                                                             |                                                  |           |                             |
+
+## Tercer sprint
+
+Para el tercer sprint las tareas de la lista general que asignamos fueron las siguientes
+
+| Escribir documentacion de proceso                   |      3     | 
+| Realizar el guion del video como presentacion       |      1     |
+
+Una vez moduladas y divididas entre los integrantes del equipo, en su dia determinado del sprint como planeacion, el backlog de ese sprint quedo de la siguiente forma:
+
+| Actividad                                                                                                             | Miembros                                         | Prioridad | Puntos(Modificalo alejandro)|
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|-----------------------------|
+| _* Realizar el guion del video como presentacion*_                                                                    |                                                  |           |                             |
+|  Redactar un borrador del guion para el video.                                                                        |                                                  | Alta      |                             |
+| 	Proporcionar retroalimentación como equipo al borrador presentado.                                                  |                                                  |           |                             |
+| Corregir el borrador del guion según la retroalimentación recibida.                                                   |                                                  | Alta      |                             |
+|  Una vez con el guion finalizado, grabar los audios para la narración del video.                                      |                                                  |           |                             |
+| Iniciar la edición del video.                                                                                         |                                                  | Alta      |                             |
+|  Obtener opiniones del equipo sobre el avance del video.                                                              |                                                  |           |                             |
+| 	Mejorar el video basándose en las opiniones recibidas.                                                              |                                                  | Alta      |                             |
+|  Finalmente, exportar el video.                                                                                       |                                                  |           |                             |
+|   Participar en la presentación                                                                                       |                                                  |           |                             |
+|  Resumir información importante para la presentación                                                                  |                                                  | Alta      |                             |
+|                                                                                                                       |                                                  |           |                             |
+| _*Escirbir documentacion de proceso*_                                                                                 |                                                  |           |                             |
+|  Detallar los cambios realizados en la gestión del proceso en comparación con entregas anteriore                      |                                                  | Alta      |                             |
+| Revisar el texto en busca de errores ortográficos.                                                                    |                                                  | Alta      |                             |
+| Documentar el proceso llevado a cabo en esta entrega.                                                                 |                                                  |           |                             |
+| Detallar la tabla de actividades correspondientes a cada integrante en un determinado sprint.                         |                                                  | Alta      |                             |
+| Describir la metodología implementada en este proceso (combinación de Scrum y Kanban).                                |                                                  | Alta      |                             |
+| Ofrecer una descripción general del proceso.                                                                          |                                                  |           |                             |
+
+---
 
 
 
