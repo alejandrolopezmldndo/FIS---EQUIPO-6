@@ -20,4 +20,5 @@ Las preguntas de la encuesta son las siguientes:
 
 ![image](https://github.com/alejandrolopezmldndo/FIS---EQUIPO-6/assets/143463559/f8de228d-f314-42a7-bdd5-6889cc30c965)
 
-![image](https://github.com/alejandrolopezmldndo/FIS---EQUIPO-6/assets/143463559/35fb989d-efeb-4638-b862-67f7c44724d7)
+![image](https://github.com/alejandrolopezmldndo/FIS---EQUIPO-6/assets/143463559/b44ec29a-f388-4d9e-8313-cc20ce76943f)
+
