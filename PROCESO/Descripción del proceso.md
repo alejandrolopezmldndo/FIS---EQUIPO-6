@@ -36,7 +36,7 @@ Por ende, en ese momento, el backlog lucía de la siguiente manera:
 | Realizar el guion del video como presentacion       |      1     |
 | Escribir las competencias                           |      3     |     
 | Refinar artefactos                                  |      1     | 
-| Realizar pruebas informales                         |      3     | 
+|                          |      3     | 
 | Mejorar el proceso                                  |      2     |
 | Resumir información importante para la presentación |      3     | 
 | Participar en la presentación                       |      3     |
@@ -75,7 +75,7 @@ Una vez con las tareas generales asignadas al sprint y utilizando el dia lunes c
 |                                                                                                                       |                                                  |           |                             |
 | _*Escribir documentacion del diseño*_                                                                                 |                                                  |           |                             |
 | Subtareas:                                                                                                                                                                                                         |
-| Modificar el diseño en base de los requerimientos                                                                    |                                                  | Alta      |                             |
+| Modificar el diseño en base de los requerimientos                                                                     |                                                  | Alta      |                             |
 | Realizar pruebas de usabilidad con el diseño quetenemos                                                               |                                                  | Media     |                             |
 | Dar retroalimentacion y brindar ideas sobre posibles mejoras para el diseño como equipo                               |                                                  | Alta      |                             |
 | Recibir opiniones de usuarios fuera del equipo                                                                        |                                                  |           |                             |
@@ -83,9 +83,9 @@ Una vez con las tareas generales asignadas al sprint y utilizando el dia lunes c
 | Escribir en la nueva documentacion sobre las modificaciones realizadas                                                |                                                  | Alta      |                             |
 | Recopilar prototipos de diseño                                                                                        | Todos                                            | Alta      |                             |
 |                                                                                                                       |                                                  |           |                             |
-|                                                                                                                       |                                                  |           |                             |
-|                                                                                                                       |                                                  | Media     |                             |
-|                                                                                                                       |                                                  | Alta      |                             |
+| _*Escribir documentacion de pruebas*_                                                                                 |                                                  |           |                             |
+| Realizar pruebas informales                                                                                            |                                                  | Media     |                             |
+| Establecer la herramienta donde llevaremos                                                                                                                       |                                                  | Alta      |                             |
 |                                                                                                                       |                                                  |           |                             |
 |                                                                                                                       |                                                  | Alta      |                             |
 |                                                                                                                       |                                                  | Alta      |                             |
