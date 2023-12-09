@@ -64,6 +64,15 @@ Una vez con las tareas generales asignadas al sprint, el lunes con la planeacion
 
 | Actividad                                                                                                             | Miembros                                         | Prioridad | Puntos(Modificalo alejandro)|
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|-----------------------------|
+| _*Escribir Documentacion de los requisitos*_                                                                          |                                                  |           |                             |
+| Subtareas:                                                                                                                                                                                                         |
+| Redefinir los requisitos funcionales y no funcionales de la aplicación.                                               |                                                  | Media     |                             |
+| Discutir sobre posibles modificaciones en los requisitos                                                              |                                                  | Alta      |                             |
+| Priorizar los requisitos según su importancia y viabilidad.                                                           |                                                  |           |                             |
+| Escribir descripciones detalladas de cada requisito.                                                                  |                                                  | Alta      |                             |
+| Establecer requerimientos finales                                                                                     |                                                  | Alta      |                             |
+| Escribir las modificaciones que se realizaron en los requisitos                                                       |                                                  | Media     |                             |
+|                                                                                                                       |                                                  |           |                             |
 | _*Escribir documentacion del diseño*_                                                                                 |                                                  |    2      |                             |
 | Subtareas:                                                                                                                                                                                                         |
 | Modificiar el diseño en base de los requerimientos                                                                    |                                                  | Alta      |                             |
@@ -74,14 +83,7 @@ Una vez con las tareas generales asignadas al sprint, el lunes con la planeacion
 | Escribir en la nueva documentacion sobre las modificaciones realizadas                                                |                                                  | Alta      |                             |
 | Recopilar prototipos de diseño                                                                                        | Todos                                            | Alta      |                             |
 |                                                                                                                       |                                                  |           |                             |
-| _*Escribir Documentacion de los requisitos*_                                                                          |                                                  |           |                             |
-| Subtareas:                                                                                                                                                                                                         |
-| Redefinir los requisitos funcionales y no funcionales de la aplicación.                                               |                                                  | Media     |                             |
-| Discutir sobre posibles modificaciones en los requisitos                                                              |                                                  | Alta      |                             |
-| Priorizar los requisitos según su importancia y viabilidad.                                                           |                                                  |           |                             |
-| Escribir descripciones detalladas de cada requisito.                                                                  |                                                  | Alta      |                             |
-| Establecer requerimientos finales                                                                                     |                                                  | Alta      |                             |
-| Escribir las modificaciones que se realizaron en los requisitos                                                       |                                                  | Media     |                             |
+
 |                                                                                                                       |                                                  | Media     |                             |
 |                                                                                                                       |                                                  | Alta      |                             |
 |                                                                                                                       |                                                  |           |                             |
