@@ -1,5 +1,5 @@
 ## Presentación de la Tercera Entrega
-
+[![Alt text](https://img.youtube.com/vi/hZ5sj78l9bE/0.jpg)](https://www.youtube.com/watch?v=hZ5sj78l9bE)
 ---
 
 ## Tabla de Porcentajes
