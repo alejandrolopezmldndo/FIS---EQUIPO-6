@@ -57,18 +57,58 @@ primera entrega para el primer prototipo.*__                                    
 | 8. Documentación y subida de competencias                                                                                                           | Oswaldo             | Baja      | 1 |
 | 9. Documentación y subida de diseño                                                                                                                 | Alejandro           | Alta      | 3 |
 | 10. Documentación y subida de proceso                                                                                                               | Elias y Aurora      | Media     | 2 |
-| Escribir resumen de la evolución del producto       |Jesse y Elias             |Media       | 2
-| Entrevistar a usuarios                              |Aurora             |Media         | 2
-| Redactar sección de innovación                      | Elías            |Baja          |1
-| Mejorar requisitos                                  | Todos            |Alta         |3
-| Refinar artefactos                                  | Martín y Jesse            |Media          |2
-| Establecer requerimientos finales                   |Alejandro             |Media         |2
-| Mejorar el prototipo de diseño                      | Todos            |Alta          |3
-| Realizar pruebas informales                         | Alejandro            |Alta          |3
-| Mejorar el proceso                                  | Elías y Jesse            |Alta         |3
-| Resumir información importante para la presentación | Jareth, Jesse y Aurora            |Media          |2
-| Participar en la presentación                       | Todos       |Alta         |3
-| Argumentar en competencias genéricas y específicas  | Aurora            |Media          |2
-| Redactar crítica constructiva                       | Aurora            |Baja          |1
-| Organizar el repositorio                            | Aurora           |Baja         |1
-| Total                                               |             |        |411
+| _*Escribir Documentacion de los requisitos*_                                                                          |                                                  |           |                             |
+| Subtareas:                                                                                                                                                                                                         |
+| Redefinir los requisitos funcionales y no funcionales de la aplicación.                                               |  Alejandro                                                | Media     |  2                           |
+| Discutir sobre posibles modificaciones en los requisitos                                                              |  Todos                                                | Alta      |   3                          |
+| Priorizar los requisitos según su importancia y viabilidad.                                                           | Jareth y Aurora                                                 | Media        | 2                            |
+| Escribir descripciones detalladas de cada requisito.                                                                  | Aurora                                                 | Alta      | 3                            |
+| Establecer requerimientos finales                                                                                     | Todos                                                  | Alta      |  3                           |
+| Escribir las modificaciones que se realizaron en los requisitos                                                       | Aurora                                                 | Media     |   2                          |
+|                                                                                                                       |                                                  |           |                             |
+| _*Escribir documentacion del diseño*_                                                                                 |                                                  |           |                             |
+| Subtareas:                                                                                                                                                                                                         |
+| Modificar el diseño en base de los requerimientos                                                                     |  Todos                                               | Alta      |  3                           |
+| Realizar pruebas de usabilidad con el diseño quetenemos                                                               |  Jesse y Aurora                                                | Media     |   2                          |
+| Dar retroalimentacion y brindar ideas sobre posibles mejoras para el diseño como equipo                               | Todos                                                  | Alta      |    3                         |
+| Recibir opiniones de usuarios fuera del equipo                                                                        | Todos                                                 | Baja          | 1                             |
+| Mejorar el dieño en base de las opiniones recibidas                                                                   | Todos                                                  | Alta      |     3                        |
+| Escribir en la nueva documentacion sobre las modificaciones realizadas                                                | Aurora                                                 | Alta      |      3                       |
+| Recopilar prototipos de diseño                                                                                        | Todos                                            | Alta      |       3                      |
+|                                                                                                                       |                                                  |           |                             |
+| _*Escribir documentacion de pruebas*_                                                                                 |                                                  |           |                             |
+| Realizar pruebas informales                                                                                           |  Elías y Martín                                                | Media     |     2                        |
+| Establecer la herramienta donde llevaremos                                                                            |  Todos                                                | Baja      |      1                       |
+| Escribir los casos de usuario                                                                                         | Alejandro                                                 | Alta          | 3                            |
+| ESTABLECER LA HERRAMIENTA donde pondran los porcentajes de los resultados obtenidos de las pruebas (Google forms)     |  Todos                                                | Baja      |      1                       |
+| Establecer los requisitos a poner a prueba                                                                            |    Todos                                              | Alta      |       3                      |
+| Empezar con la documentacion final de prueba                                                                          |    Todos                                              | Media          | 2                            |
+| Escribir los resultados obtenidos de las pruebas en la documentacíon final                                            | Martín y Jareth                                                 | Media     |  2                           |
+| Documentar todo el proceso de pruebas en sus respectivos apartados.                                                   | Elías, Aurora, Jesse y Jareth                                                 | Media     |   2                          |
+| _*Escribir la parte de las compentencias*_                                                                            |                                                  |        |                             |
+| Argumentar en competencias genéricas y específicas                                                                    |  Aurora                                                | Baja      |  1                           |
+| _*Escribir la documentacion del producto*_                                                                            |                                                  |           |                             | 
+| Escribir y mejorar la descripción de nuestra aplicación.                                                              |  Jesse                                                | Alta      |   3                          |
+| En caso necesario, mejorar el apartado que describe la problemática resuelta por nuestra app.                         | Aurora y Jesse                                                 | Media          | 2                            |
+| Revisar y corregir errores ortográficos y gramaticales en los textos mejorados.                                       | Jesse                                                 | Baja      |    1                         |
+| Comenzar el borrador de la evolución de nuestro producto.                                                             | Jesse                                                 | Media          | 2                            |
+| _* Realizar el guion del video como presentacion*_                                                                    |                                                  |           |                             |
+|  Redactar un borrador del guion para el video.                                                                        |  Jareth                                                | Media      | 2                            |
+| 	Proporcionar retroalimentación como equipo al borrador presentado.                                                  |  Todos                                                | Baja          | 1                             |
+| Corregir el borrador del guion según la retroalimentación recibida.                                                   |  Todos                                                | Alta      | 3                             |
+|  Una vez con el guion finalizado, grabar los audios para la narración del video.                                      |  Todos                                                | Alta          | 3                            |
+| Iniciar la edición del video.                                                                                         |  Martín                                                | Alta      |   3                          |
+|  Obtener opiniones del equipo sobre el avance del video.                                                              |   Todos                                               | Baja          | 1                            |
+| 	Mejorar el video basándose en las opiniones recibidas.                                                              | Martín                                                 | Alta      |  3                           |
+|  Finalmente, exportar el video.                                                                                       | Martín                                                 | Baja          | 1                             |
+|   Participar en la presentación                                                                                       |   Todos                                               | Alta          | 3                             |
+|  Resumir información importante para la presentación                                                                  | Jareth y Jesse                                                 | Media      |  2                           |
+|                                                                                                                       |                                                  |           |                             |
+| _*Escirbir documentacion de proceso*_                                                                                 |                                                  |           |                             |
+|  Detallar los cambios realizados en la gestión del proceso en comparación con entregas anteriores                      | Elías y Jesse                                                 | Media      |    2                         |
+| Revisar el texto en busca de errores ortográficos.                                                                    |  Elías                                                | Baja      |     1                        |
+| Documentar el proceso llevado a cabo en esta entrega.                                                                 | Todos                                                 |     Alta      |  3                           |
+| Detallar la tabla de actividades correspondientes a cada integrante en un determinado sprint.                         | Elías y Jesse                                                 | Media      | 2                            |
+| Describir la metodología implementada en este proceso (combinación de Scrum y Kanban).                                | Elías                                                 | Alta      |   3                          |
+| Ofrecer una descripción general del proceso.                                                                          | Elías                                                 |  Media         | 2                            |
+| Total                                                                         |                                                  |          | 652                           |
